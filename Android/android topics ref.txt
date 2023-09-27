@@ -1,0 +1,11 @@
+android topics ref
+
+[Gradle]
+https://proandroiddev.com/gradle-deep-dive-demystifying-the-groovy-script-c90d79a36320
+https://www.studytonight.com/android/introduction-to-gradle
+
+[Dex File Format]
+https://www.bugsnag.com/blog/dex-and-d8/
+
+[Android Runtime and ART]
+https://proandroiddev.com/android-runtime-how-dalvik-and-art-work-6e57cf1c50e5

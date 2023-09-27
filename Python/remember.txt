@@ -1,0 +1,4 @@
+remember
+
+* len() in python returns the #bytes covered by the underlying string (not the number of grapheme)
+

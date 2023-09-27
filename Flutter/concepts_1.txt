@@ -1,0 +1,48 @@
+concepts_1
+
+* Pageless vs Page Route :
+  ---
+  ref : https://api.flutter.dev/flutter/widgets/Navigator/pages.html
+
+  
+  Whenever you define/register the Page in `Navigator.pages`, then route corresp to that page
+  in navigator stack is called as a Page-Based Route
+
+  Whenever you `push` directly on Navigator object, then such routes lying on Navigatot Stack 
+  are called as Page-less Route
+
+  NOTE:
+  -> Page (defined in `Navigator.pages`) gets converted into Route as Navigator works with Route 
+  (Analogous to how widget gets converted to element)
+
+
+* Navigator :
+  ---
+  - is a widget itself
+
+  Navigator vs Router :
+  ---
+
+
+* Total ways for Overlay in Flutter :
+  ---
+  1. Using pre-built widgets such as Dialog, Sheet, ...
+
+  2. Using Overlay (Custom Overlay) Widget
+
+  3. Using external packages such as `modals`
+
+
+
+* TextField, FormField, InputDecorator :
+  ---
+  -> Form Field is used when you want your Custom widget to be a field of a Form
+  
+  -> InputDecorator :- is used to provided visual decoration to widget like TextField
+        |
+        can be used to create widgets that looks like TextField but accepst other kinda input
+        i.e DropDown
+
+
+* PopupRoute, SingleChildLayoutDelegate & NavigatorStack  
+    // To Customize the pushing of Route to stack

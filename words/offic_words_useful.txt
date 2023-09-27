@@ -1,0 +1,12 @@
+offic_words_useful.txt
+
+gander : glimpse, look or glance
+potraying: demonstrating
+inertness: lacking strenght/ability to move
+squander: misuse, waste, misspend
+
+lumbering: clumsy, awkward
+unobtrusive: not conspicuous, modest, quiet, not attracting attention
+meek: quiet, gentle, submissive
+
+contentious: debatable, controversial, disputable

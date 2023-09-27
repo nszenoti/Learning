@@ -1,0 +1,21 @@
+kotlin-ref
+
+[Kotlin - JVM]
+https://betterprogramming.pub/kotlin-runs-on-the-jvm-just-like-java-how-does-it-provide-so-many-great-features-b27ed269015b
+
+https://www.infoworld.com/article/3272244/what-is-the-jvm-introducing-the-java-virtual-machine.html
+
+https://builtin.com/software-engineering-perspectives/kotlin
+
+https://medium.com/android-news/inline-noinline-crossinline-what-do-they-mean-b13f48e113c2
+
+[Coroutines]
+https://vvsevolodovich.dev/android-background-in-a-nutshell-part-v-kotlin-coroutines/
+
+[Advance Kotlin]
+https://www.youtube.com/watch?v=UveNpy7lZ8M
+
+Baledung -> Articles
+
+[Kotlin Concept]
+https://medium.com/@s1m0nw1 

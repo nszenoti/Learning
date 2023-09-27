@@ -1,0 +1,37 @@
+core_concepts.txt
+
+
+TextField (EditableText)
+https://api.flutter.dev/flutter/widgets/EditableText-class.html
+
+
+* Advance Routing :
+  https://nitishk72.medium.com/flutter-advance-routing-and-navigator-df0f86f0974f
+
+
+
+* Plugins :
+  ---
+  - Most commonly used platform (native) APIs have corresponding flutter plugins
+  - Plugin wraps the native API & exposes the dart interface that can be used in your flutter code
+    (Behind the scene plugins makes necessary API calls depending on Platform)
+
+
+* Flutter & Rendeirng :
+  ----
+  https://medium.com/flutter-community/the-layer-cake-widgets-elements-renderobjects-7644c3142401
+
+  https://medium.com/manabie/how-flutter-renders-widgets-fd6eca945a04
+
+  https://medium.flutterdevs.com/how-flutter-renders-widgets-34d4f272b3c3
+
+  https://medium.flutterdevs.com/under-the-hood-rendering-in-flutter-ddc5aadd65ba
+
+  https://blog.logrocket.com/understanding-renderobjects-flutter/
+
+  https://flutter.megathink.com/rendering/compositing
+
+* Flutter Archi & History :
+  ----
+  [**IMP***]
+  https://betterprogramming.pub/why-is-flutter-fast-part-2-layered-architecture-c8954b03e994

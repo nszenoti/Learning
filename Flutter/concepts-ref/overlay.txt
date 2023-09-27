@@ -1,0 +1,36 @@
+overlay
+
+[Youtube]
+https://www.youtube.com/watch?v=7-fMGoq8eDo
+
+[Dropdown Search]
+https://betterprogramming.pub/how-to-build-an-online-searchable-dropdown-flutter-widget-3ede426f4d17
+
+https://medium.com/flutter-community/flutter-expansion-collapse-view-fde9c51ac438
+
+[Own DropDown Menu]
+https://medium.com/@luis.carch1998/how-to-create-your-own-dropdownmenu-in-flutter-ee849b584c27
+
+[Expand Animation and Rotate Animation]
+https://stackoverflow.com/questions/65685532/create-custom-dropdown-in-flutter-or-how-to-put-custom-dropdown-options-in-a-l#:~:text=Custom%20dropdown%20below%20button&text=The%20button%20creates%20a%20full,LayerLink%20and%20the%20CompositedTransformFollower%20widget.
+
+[Use Overlay to display floating widget]
+https://medium.com/saugo360/https-medium-com-saugo360-flutter-using-overlay-to-display-floating-widgets-2e6d0e8decb9
+
+
+https://medium.com/@gshubham030/custom-dropdown-menu-in-flutter-7d8d1e026c6b
+
+[Composited Transform Widget]
+https://flutteragency.com/use-compositedtransformfollower-class-flutter/
+https://plugfox.dev/layer-link/
+
+https://medium.flutterdevs.com/compositedtransformfollower-in-flutter-479e7f537db1
+https://medium.com/flutter/how-to-float-an-overlay-widget-over-a-possibly-transformed-ui-widget-1d15ca7667b6
+
+
+[Fab With Icons | Overlay with Animations]
+https://medium.com/coding-with-flutter/flutter-adding-animated-overlays-to-your-app-e0bb049eff39#:~:text=Overlays%20let%20independent%20child%20widgets,the%20overlay%20using%20OverlayEntry%20objects.
+
+
+[Awesome Overlays | Portal Widget]
+https://fredgrott.medium.com/flutter-awesome-way-to-do-overlays-f1f0944a128b

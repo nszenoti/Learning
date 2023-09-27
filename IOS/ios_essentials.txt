@@ -1,0 +1,12 @@
+* Provisioning Profile and Code Signing
+  https://www.youtube.com/watch?v=Ys2p5bFhgjI
+
+
+https://medium.com/ios-os-x-development/ios-code-signing-provisioning-in-a-nutshell-d5b247760bef
+https://www.kodeco.com/3078-ios-code-signing-under-the-hood
+
+
+https://andreea-andro.medium.com/xcode-project-vs-xcode-workspace-differences-8650f5291383
+
+
+https://guides.cocoapods.org/using/pod-install-vs-update.html

@@ -1,0 +1,25 @@
+gradle
+
+https://docs.gradle.org/current/userguide/dependency_management.html
+
+https://docs.gradle.org/current/userguide/plugins.html#sec:using_plugins
+
+
+[New Android Studio & Gradle Dependency]
+https://www.youtube.com/watch?v=4-sYTrwVUsg
+
+[Legacy vs DSL way ]
+https://stackoverflow.com/questions/72603977/where-to-put-android-gradle-plugin-version-in-the-new-android-studio-bumblebee
+
+[com.android.application vs com.android.library]
+https://stackoverflow.com/questions/27342458/apply-plugin-android-or-apply-plugin-com-android-application
+
+
+[What is diff between classpath and implementations]
+
+
+[Gradle Configurations Explained] 
+https://medium.com/agorapulse-stories/gradle-configurations-explained-4b9608dd5e35
+
+[Diff Gradle Versions]
+https://stackoverflow.com/questions/35291986/different-gradle-versions-in-my-project-gradle-xml-vs-build-gradle

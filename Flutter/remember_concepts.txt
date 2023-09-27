@@ -1,0 +1,40 @@
+remember_concepts
+
+
+* Pages vs Routes | Flutter
+----
+In Flutter, pages are just widgets that we assign to routes. And routes are managed by the Navigator, which is (you guessed it) just a widget! 
+A Navigator widget is an abstraction over a widget that lays its children out in a stack nature.
+
+
+* ListView :
+  ---
+  -> Items are building with limited constraints of height in mind  (ie Even if you Have Unconstrained Column as your item) It wont go as long as it should
+  because Listview will consume rest space as expanded & give the height as much needed for your item
+
+
+* setState, ListView & Widgets & conditional widgets :
+  ---
+  Avoid using conditional widgets as much as possible because it will enforce widget rebuild
+  & lead to more work
+  Eg
+
+  if(enable)
+  {
+    return AbsorbPointer(absorbing: true, child: Opacity(opacity: 0.5, child: childWidget))
+  }else{
+    return childWidget
+  }
+
+  vs
+
+  return AbsorbPointer(
+    absorbing: disable, 
+    child: Opacity(opacity: disable ? 0.5 : 1, child: childWidget)
+  )
+
+
+  Whenever we toggle between enable/disable, First one will do more work as its removing entire 2 widgets from tree and rebuilding all the widgets down it
+
+  Whereas in second case None of the widgets is removed from treee hence only updates gets 
+  passed on resulting in less work (ie not creating all the widgets down in hierarchy from scratch)

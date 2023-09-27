@@ -1,0 +1,30 @@
+youtube ref
+
+[Latest Android Gradle Plugin]
+https://www.youtube.com/watch?v=S_zZRBJxTQ0
+
+[Kotlin DSL]
+https://www.youtube.com/playlist?list=PLQ176FUIyIUaW-RqAJLbSZe59l6r7t8wp
+
+https://www.youtube.com/watch?v=zYNbsVv9oN0
+https://www.youtube.com/watch?v=UGtYPRBCtEg
+
+
+[Migrate Gradle Groovy to Gradle Kotlin DSL]
+https://www.youtube.com/watch?v=xLtF89qMFEI
+
+[Gradle in Android]
+https://www.youtube.com/watch?v=mfet4d2YthU
+https://www.youtube.com/watch?v=dxZnAaPpk4M
+https://youtu.be/o0M4f5djJTQ
+
+[Gradle Kotlin vs Gradle Groovy]
+https://www.youtube.com/watch?v=ErdH9mQySQQ
+
+[Understanding Gradle]
+https://www.youtube.com/playlist?list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE
+https://www.youtube.com/watch?v=pKsn2eZWQK0
+
+[Declaring Dependencies]
+https://docs.gradle.org/current/userguide/declaring_dependencies.html#:~:text=If%20you%20declare%20a%20module,(e.g.%20cglib%20)%20are%20downloaded.
+

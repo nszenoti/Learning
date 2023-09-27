@@ -1,0 +1,8 @@
+commands
+
+* Name Lookup
+  -> nslookup -type=mx gmail.com  // name lookup for gmail.com
+
+* Messages recieved by DNS services 
+  -> dig google.com
+

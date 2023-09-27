@@ -1,0 +1,33 @@
+archi_practice
+
+--- GetX --- 
+
+- https://medium.flutterdevs.com/getx-state-management-in-flutter-a9710277b0bc
+- https://www.bacancytechnology.com/blog/flutter-state-management-using-getx
+
+- https://flutterawesome.com/an-example-of-clean-architecture-using-the-getx-state-management-solution/
+
+[GetX Nav]
+https://www.fluttercampus.com/guide/120/how-to-navigate-to-different-pages-using-getx-in-flutter/
+
+
+--- BLOC ---
+
+[Bloc]
+https://betterprogramming.pub/a-comprehensive-guide-to-flutters-bloc-architecture-d2d16022b0b9
+
+[BLOC]
+https://dhruvnakum.xyz/flutter-bloc-a-complete-guide
+
+[BLOC]
+https://marajhussain.medium.com/flutter-bloc-clean-architecture-best-practice-news-apis-3adb0e2012cc
+
+
+---
+
+General Guide
+
+[Assets Folder manage]
+https://quickcoder.org/flutter-assets/
+
+https://stackoverflow.com/questions/54069239/whats-the-best-practice-to-keep-all-the-constants-in-flutter

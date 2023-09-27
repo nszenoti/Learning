@@ -1,0 +1,39 @@
+// Reverting the merge commit:
+https://levelup.gitconnected.com/reverting-a-merge-commit-7de2e9114c7d
+
+-----
+
+git init
+git status
+
+git add .
+git commit -m "message"
+git restore --staged filename
+
+git log
+git stash
+git stash pop  // apply latest stash	
+git stash clear // cler stash
+
+git remote add origin url  // origin is tagname for url
+git remote -v // see all urls attached (ie display tag name & url)
+
+git push tagNameOfRemoteUrl localBranchNameToBePushed 
+
+git branch name
+git checkout name
+
+git merge name  // merge {name} into current branch
+
+git reset --hard upstream/main  // will make head to point towards the latest commit present in upstream/main branch
+
+git pull upstream main
+
+
+
+----
+
+You can add multiple remote urls to your local git project 
+- Eg
+1. origin  // for original remote project
+2. upstream // for forked project (from original one)

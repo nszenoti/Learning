@@ -1,0 +1,93 @@
+imp concepts ref
+
+
+-------
+(EARLIER EXPLORED)
+
+DEEP LINK <----
+
+https://medium.com/flutter-community/deep-links-and-flutter-applications-how-to-handle-them-properly-8c9865af9283
+
+https://blog.logrocket.com/understanding-deep-linking-flutter-uni-links/
+
+https://blog.mindorks.com/pushing-notifications-in-android-using-fcm/
+
+[Push Notification Working]  <---* // UNDERSTAND
+https://academind.com/tutorials/flutter-push-notifications
+
+[Ideal] <---* IMPL
+https://medium.com/@yshean/implementing-push-notifications-in-flutter-apps-aef98451e8f1
+
+[Push Notification and Deep Link]
+https://www.youtube.com/watch?v=p7aIZ3aEi2w
+
+https://www.youtube.com/watch?v=PpAoCXEnvvM
+
+-------
+
+https://stackoverflow.com/questions/50850054/create-my-own-push-notification-service-without-fcm-pusher
+
+https://stackoverflow.com/questions/44220396/web-push-notifications-on-chrome-for-android-do-i-need-a-third-party-service-li#:~:text=So%20notifications%20will%20always%20pass%20through%20FCM%20and,and%20additional%20features%20over%20the%20browser%20push%20service.
+
+
+There is a need to display ezconnect notification and 
+then in reaction to that notification, connect needs to be opened 
+How this can be achieved possibly ?
+
+
+-------->>>>>>>>>>>>>>>>>>>>>
+
+
+Youtube -->
+  - https://www.youtube.com/watch?v=AKYebqOCAzY
+
+  - https://youtu.be/Jb3UDhtKHKQ
+
+  - https://youtu.be/u3AAmAzynjk
+
+  - https://youtu.be/p3YNDjaCgxc
+
+  - https://youtu.be/u-7ut-phOrA
+
+  - https://youtu.be/kRf_uB49Iuo
+
+  - https://youtu.be/q1PdL4I_WU4
+
+  - https://youtu.be/PrnxksGQ210
+
+  - https://youtu.be/AUzLRiGqE_Y
+
+
+* Push Notification Work :
+  -----------
+
+  https://huspi.com/blog-open/what-is-a-push-notification-and-how-does-it-work/
+
+  https://www.digitalvidya.com/blog/push-notifications/
+
+
+* Android Native 
+  ---
+  https://www.kodeco.com/9227276-firebase-cloud-messaging-for-android-sending-push-notifications
+
+  https://proandroiddev.com/tagged/push-notification
+
+
+
+* Flutter Notifications 
+  ---
+  - https://medium.com/flutter-community/deep-links-and-flutter-applications-how-to-handle-them-properly-8c9865af9283
+
+  - https://www.kodeco.com/34019063-creating-local-notifications-in-flutter
+
+  - https://medium.com/@ChanakaDev/flutter-firebase-push-notifications-complete-guide-fae42c88f32a
+
+  - https://codesundar.com/flutter-push-notification/
+
+  - https://somniosoftware.com/post/how-to-effectively-implement-push-notifications-in-your-flutter-app
+
+  - https://medium.com/geekculture/on-tap-push-notification-redirect-to-corresponding-screen-in-flutter-9f184068e4f8
+
+  - https://o-ifeanyi.hashnode.dev/deep-linking-in-flutter-part-1
+
+  - https://medium.com/@duytq94/flutter-chat-app-extended-push-notification-messages-a26c669f4675

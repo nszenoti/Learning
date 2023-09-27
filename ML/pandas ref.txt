@@ -1,0 +1,6 @@
+pandas ref
+
+
+https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/
+
+https://www.educative.io/blog/pandas-cheat-sheet

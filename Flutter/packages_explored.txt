@@ -1,0 +1,9 @@
+packages_explored
+
+- flutter_parsed_text_field
+- detectable_text_field
+
+- searchable_dropdown
+
+- multi_select_flutter
+- flutter_portal   // overlays simplified

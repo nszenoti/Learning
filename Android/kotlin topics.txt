@@ -1,0 +1,13 @@
+kotlin topics
+
+Infix Functions
+Inline Functions
+DSL
+Delegated Properties
+Inline Classes
+Lambda & Recievers
+
+Reflection
+Generics & reified 
+
+Lambda With Recievers

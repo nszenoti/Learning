@@ -1,0 +1,10 @@
+dart concepts
+
+https://www.sandromaglione.com/techblog/dart-flutter-static-metaprogramming-macro-prototype
+
+https://medium.com/dartlang/dart-2-legacy-of-the-void-e7afb5f44df0
+
+
+[Dart Mixins]
+https://www.kodeco.com/36646656-dart-mixins-tutorial-for-flutter-getting-started
+https://quickbirdstudios.com/blog/flutter-dart-mixins/

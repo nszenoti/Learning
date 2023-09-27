@@ -1,0 +1,15 @@
+Deep Link & Nested Navigation
+
+
+https://www.rootstrap.com/blog/flutter-navigation-with-router-go
+
+https://docs.flutter.dev/cookbook/effects/nested-nav
+
+https://sellsbrothers.com/understanding-flutter-deep-links-on-the-web
+
+
+https://betterprogramming.pub/how-to-handle-page-routing-in-flutter-using-the-routegenerator-ccce288e751c
+
+https://nitishk72.medium.com/flutter-advance-routing-and-navigator-df0f86f0974f
+
+https://medium.com/flutter-community/deep-links-and-flutter-applications-how-to-handle-them-properly-8c9865af9283

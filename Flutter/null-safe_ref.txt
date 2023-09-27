@@ -1,0 +1,39 @@
+null-safe_ref
+
+https://github.com/nszenoti/Quick-Notes/blob/master/Flutter/flutter_version_update_cmd.txt	
+
+ref:
+https://blog.logrocket.com/migrating-flutter-project-null-safety/
+
+-----
+Useful commands
+
+flutter pub upgrade --major-versions
+
+flutter pub outdated // see outdated versions
+
+------
+
+Commands to run
+
+1) check outdated dependenies > 
+   - dart pub outdated --mode=null-safety  // see outdated packages
+   - dart pub upgrade --null-safety  // migrate packages (automatically)
+     [NOTE: you can manually also migrate them]
+
+--- All dependencies are now being pointed to migrated (now its turn for your project migration)
+
+2) try run flutter pub get
+
+  
+3) Project Migration
+   |
+
+   (Via TOOL)
+   - Incremental Migration 
+     -> (ie running dart migrate commands multiple times for diff sets of files)
+   
+
+   (via Manually)
+
+

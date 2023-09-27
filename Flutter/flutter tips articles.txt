@@ -1,0 +1,22 @@
+flutter tips articles
+
+
+https://lakshydeep-14.medium.com/30-flutter-tips-ft25-searchable-dropdown-in-flutter-30164bbaa4ea
+
+
+https://medium.com/@alvaro.armijoss/flutter-state-management-provider-bloc-getx-riverpod-getit-and-mobx-c9db3168a834
+
+
+
+[Routing & Nav]
+
+https://betterprogramming.pub/how-to-handle-page-routing-in-flutter-using-the-routegenerator-ccce288e751c
+
+https://nitishk72.medium.com/flutter-advance-routing-and-navigator-df0f86f0974f
+
+[BLOC]
+https://betterprogramming.pub/a-comprehensive-guide-to-flutters-bloc-architecture-d2d16022b0b9
+
+https://medium.com/@alvaro.armijoss/flutter-performance-best-practices-86ac8101fb3
+
+https://medium.com/codebrew/offline-first-approach-with-flutter-ace2843d36d8

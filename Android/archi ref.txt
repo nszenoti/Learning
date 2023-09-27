@@ -1,0 +1,12 @@
+archi ref
+
+[Android Blogs]
+https://www.freeportmetrics.com/blog
+
+Clean Multi Module Archi
+https://proandroiddev.com/clean-android-networking-with-local-database-offline-caching-app-in-2019-including-retrofit-4a6b49ea5d7b
+https://proandroiddev.com/clean-android-multi-module-offline-first-scalable-app-in-2022-including-jetpack-compose-mvi-987ebecbecae
+https://medium.com/codequest/clean-android-multi-module-offline-first-scalable-app-in-2022-part-2-including-compose-ui-e1fd0a0f410e
+
+
+https://proandroiddev.com/how-to-architect-android-apps-a-deep-dive-into-principles-not-rules-2f1eb7f26402

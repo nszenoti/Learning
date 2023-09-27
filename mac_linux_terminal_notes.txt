@@ -1,0 +1,7 @@
+mkdir foldername // create folder
+
+ls  // list current folder files
+ls -a // list all hidden files as well
+ls path/to/subdir  // list files of sub directory from current folder
+
+rm -rf filename.txt // remove entire folder

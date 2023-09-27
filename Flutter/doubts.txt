@@ -1,0 +1,28 @@
+doubts
+
+
+Does namedRoutes (ie MaterialApp.routes) follows page-backed route ?
+
+Does GetX -> GetPage is the Page thats passed to `Navigator.pages` 
+Does GetX -> GetPage uses declarative mechanism (ie create page-backed route)
+
+
+BLOC/Cubit
+- What is purpose of `listen:false` param in BlocProvider.of(context)
+  as 
+  BLOC doesnt implement ChangeNotifier (ie hence its not a Listenable Notifier)
+  |
+  Instead state of bloc is listenable but not Bloc object itself
+
+- Is there any other way to notify the clients apart from notifyListeners() (of ChangeNotifier)
+
+
+* ListView & Modal :
+  ----
+  If tile is Row() or Align()
+  i.e last tile -> Row() & rest Align()
+
+  each child of either Row/Align uses Modal
+
+  In such case as soon as new element is added
+  -> Modal is breaking despite new element is created !!

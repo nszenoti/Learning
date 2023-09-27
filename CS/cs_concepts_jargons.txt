@@ -1,0 +1,10 @@
+* Unicode
+  https://deliciousbrains.com/how-unicode-works/
+  https://realpython.com/python-encodings-guide/
+  https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/
+
+  youtube.com/watch?v=ut74oHojxqo  // [Nice Video Explanation]
+  https://www.youtube.com/watch?v=uTJoJtNYcaQ
+
+* GSM
+  https://support.dotdigital.com/hc/en-gb/articles/4402059309202-The-GSM-Character-Set

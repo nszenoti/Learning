@@ -1,0 +1,8 @@
+rpref
+
+https://realpython.com/python-del-statement/
+https://realpython.com/inherit-python-list/
+
+https://realpython.com/python312-error-messages/
+https://realpython.com/search?kind=article&kind=course&order=newest
+

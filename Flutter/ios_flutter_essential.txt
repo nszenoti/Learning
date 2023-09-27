@@ -1,0 +1,25 @@
+ios_flutter_essential
+
+* iOS Xcode & Flutter steps
+
+ref: https://www.youtube.com/watch?v=BgqYd366Oiw
+
+https://stackoverflow.com/questions/64901180/how-to-run-cocoapods-on-apple-silicon-m1
+
+Videos
+- https://www.youtube.com/watch?v=1Ak6h1wGPO4&t=117s
+- https://www.youtube.com/watch?v=8dkydohY6DQ
+
+steps
+
+flutter clean
+flutter pub get
+cd ios
+pod install
+
+Tools > Flutter > Open iOS module in XCode
+Select Runner 
+Check App - preferences
+Select Team account
+Select Destination (ie IOS Device)
+Select Product > Archive

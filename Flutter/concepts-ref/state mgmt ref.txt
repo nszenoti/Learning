@@ -1,0 +1,29 @@
+
+State Manangement
+
+https://medium.com/@alvaro.armijoss/flutter-state-management-provider-bloc-getx-riverpod-getit-and-mobx-c9db3168a834
+
+https://aglowiditsolutions.com/blog/flutter-best-practices/
+
+1)
+
+[bloc archi]
+
+https://medium.com/flutter-community/flutter-bloc-for-beginners-839e22adb9f5
+https://medium.com/codechai/effective-bloc-pattern-45c36d76d5fe
+https://www.topcoder.com/thrive/articles/getting-started-with-flutter-bloc
+https://medium.com/codechai/effective-bloc-pattern-45c36d76d5fe
+https://medium.com/flutter-community/using-the-bloc-pattern-for-clean-flutter-apps-theory-and-a-practical-example-b5dcad728a2b
+https://medium.flutterdevs.com/bloc-pattern-in-flutter-part-1-flutterdevs-128f90059f5c
+https://www.biztechcs.com/blog/flutter-bloc-tutorial/
+https://betterprogramming.pub/a-comprehensive-guide-to-flutters-bloc-architecture-d2d16022b0b9
+https://www.mitrais.com/news-updates/getting-started-with-flutter-bloc-pattern/
+
+https://stackoverflow.com/questions/74455551/why-do-we-use-bloc-in-projects
+
+[Cubit]
+https://medium.com/@gianpigatto1/cubit-101-what-is-it-how-to-use-it-and-more-6c16ea66ba88
+
+
+[GetX EcoSystem]
+https://medium.com/flutter-community/the-flutter-getx-ecosystem-state-management-881c7235511d

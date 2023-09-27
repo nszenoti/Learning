@@ -1,0 +1,63 @@
+good concepts ref
+
+* Web-Flutter-Routing-URL-Strategy
+  ---
+  https://medium.com/@omlondhe/flutters-navigation-and-routing-d13b5c1c2c27
+
+* Show Dialog App-Wide
+  ---
+   https://blog.protein.tech/flutter-manage-all-your-loading-dialogs-in-one-place-b98ae1fe7930
+   https://dartling.dev/displaying-a-loading-overlay-or-progress-hud-in-flutter
+   https://dev.to/danielcardonarojas/easy-dialog-management-in-flutter-559i
+
+* Localizations
+  ---
+  https://www.developerlibs.com/2019/03/flutter-localization-or-multi-language-example.html
+
+* Text Input Formatter
+  ---
+  https://appvesto.medium.com/flutter-formatting-textfield-with-textinputformatter-c73ee2167514
+
+
+* Page Transitions Ainimations
+  ---
+  https://medium.com/flutter-community/everything-you-need-to-know-about-flutter-page-route-transition-9ef5c1b32823
+
+
+* Native Ads best practice
+  ---
+  https://storage.googleapis.com/gweb-dblclk-native-gallery.appspot.com/NativePlaybook.pdf
+
+* Jaguar | Flutter | Json
+  ---
+  https://medium.com/@rejaluo/jaguar-gson-alternative-for-dart-and-flutter-7ce93bc78a6e
+
+* Flutter Concepts 
+  ---
+  https://www.didierboelens.com/blog
+
+* App LifeCycle Changes | Listen
+  ---
+  https://medium.com/@marcoleong.developer/lifecycle-in-flutter-widgetsbindingobserver-2eb782236f8b
+
+* ChangeNotifer Basics :
+  ---
+  https://brewyourtech.com/complete-guide-to-changenotifier-in-flutter/
+
+* Provider and didChangeDependencies
+  ----
+  https://medium.com/swlh/flutter-provider-and-didchangedependencies-15678f502262
+
+
+* Form Fields
+  ---
+  https://nitishk72.medium.com/form-validation-in-flutter-d762fbc9212c
+
+
+* Animate the size of Container
+  ---
+  https://stackoverflow.com/questions/66640920/how-do-you-animate-to-expand-a-container-from-0-height-to-the-height-of-its-cont
+
+* Flutter Web Deep Links 
+  ---
+  https://sellsbrothers.com/understanding-flutter-deep-links-on-the-web

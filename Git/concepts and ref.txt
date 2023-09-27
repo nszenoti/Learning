@@ -1,0 +1,4 @@
+concepts and ref
+
+[Sourctree Embedded Git]
+https://confluence.atlassian.com/sourcetreekb/using-embedded-git-or-system-git-in-sourcetree-785323587.html

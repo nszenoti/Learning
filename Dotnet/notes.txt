@@ -1,0 +1,7 @@
+notes
+
+
+=> ASP.NET MVC is Event Driven Application 
+   - where the presentation and business logic often itermingles
+
+   It's alike The Traditional Android Development (ie Imperative Way)
