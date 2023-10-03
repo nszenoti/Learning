@@ -57,6 +57,23 @@ Youtube -->
 
   - https://youtu.be/AUzLRiGqE_Y
 
+  - https://youtu.be/AfX1OZ8xIoM?si=rdQ_8NTRhyVT4uuG
+
+  [dbstech | ios | push notif]
+  - https://youtu.be/u-7ut-phOrA?si=lYxwZlpD9GmtIKI3
+  
+  [Easy Tuto]
+  https://youtu.be/NF0RzhXDRKw?si=pnBhqYWUz5NSQwQi
+
+  [Code Farmer]
+  https://youtu.be/PwnKmRN7QZE?si=eSy0R8ws2SmwuMIs
+  
+  [Careless Coders]
+  https://youtu.be/UJ6IQGkoEgA?si=Dtk30UfhlxfRUq2s
+
+  [Flutter Force]
+  https://youtu.be/6zeRdqgliJY?si=l3_c6sZgoK1v7Vcy
+
 
 * Push Notification Work :
   -----------
@@ -91,3 +108,22 @@ Youtube -->
   - https://o-ifeanyi.hashnode.dev/deep-linking-in-flutter-part-1
 
   - https://medium.com/@duytq94/flutter-chat-app-extended-push-notification-messages-a26c669f4675
+
+
+* Push Notif & Deep Link 
+  ---
+  Youtube ref 
+
+  0. FilledStacks
+  1. Mobile Academy
+  2. Harsh H Rajpurohit
+  3. dbstech
+  4. HeyFlutter
+  5. AmplifyAbhi Coding | Applinking | DeepLinking <--**
+  6. Mitch Koko
+  7. Free Web and Mobile Apps
+  8. Destiny Ed
+  9. Code farmer | deep dive into deeplinking
+  10. Careless Coders
+  11. Flutter Force
+  12. Sujan Bhattarai
