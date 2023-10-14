@@ -27,3 +27,13 @@ https://medium.com/@gianpigatto1/cubit-101-what-is-it-how-to-use-it-and-more-6c1
 
 [GetX EcoSystem]
 https://medium.com/flutter-community/the-flutter-getx-ecosystem-state-management-881c7235511d
+
+[The Tech Brothers]
+https://youtube.com/playlist?list=PLFyjjoCMAPtzkAdWec1KTedogwztEEqJ8&si=i0FlPMRLgR5HVT1R
+
+------
+
+packages
+
+momentum
+hermep

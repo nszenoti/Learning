@@ -9,3 +9,32 @@ https://www.bugsnag.com/blog/dex-and-d8/
 
 [Android Runtime and ART]
 https://proandroiddev.com/android-runtime-how-dalvik-and-art-work-6e57cf1c50e5
+
+
+
+
+
+-----
+
+Firebase Notification Chat
+https://youtu.be/NF0RzhXDRKw?si=zq1J_sBSlahUCOJj
+
+
+Firebase FCM Custiomise Notification | Background Mode
+https://www.youtube.com/watch?v=5UDqjTXGl0k
+
+[FCM Push and Local]
+https://itnext.io/fcm-push-notification-local-notification-13117f447255
+
+https://stackoverflow.com/questions/72195879/fcm-foreground-and-background-notification-layout-view-and-pendingintent
+
+https://wajahatkarim.com/2018/05/firebase-notifications-in-background--foreground-in-android/
+
+[FCM Notification Android]
+https://levelup.gitconnected.com/push-notifications-using-firebasecloudmessaging-on-android-b75864e0990b
+
+[FCM Recieve Message]
+https://firebase.google.com/docs/cloud-messaging/android/receive#java
+
+[FCM manage tokens]
+https://firebase.google.com/docs/cloud-messaging/manage-tokens

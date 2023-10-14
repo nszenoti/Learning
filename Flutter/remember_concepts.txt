@@ -38,3 +38,8 @@ A Navigator widget is an abstraction over a widget that lays its children out in
 
   Whereas in second case None of the widgets is removed from treee hence only updates gets 
   passed on resulting in less work (ie not creating all the widgets down in hierarchy from scratch)
+
+* TextFormField & Focus :
+  ---
+  Initially textform field doesnt has focus
+  If focused textformfield loose focus somehow due to recreate widget then that focus is passed to sibbling textformfield, whosoever catches that focus event

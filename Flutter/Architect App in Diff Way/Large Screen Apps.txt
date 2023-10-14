@@ -1,0 +1,20 @@
+Large Screen Apps
+
+notes1
+
+To update diff parts of an app from different component of same screen
+You have multiple options :
+
+1) Create and maintain streams for this purpose  // for `builder` purpose
+
+2) Create Custom Stream Class (ie DartNotificationCenter) 
+   // here you can keep track of channel - observers, 
+      with option of subscribe, unsubscribe, post (data to channel)
+
+      For Subscribe unsubscribe you need to maintain a Map<Channel, List[Observers]>
+
+
+* DartNotificationCenter  // Central Notification Center for your App
+   |
+   This way you can communicate from any part of app to any part of an App
+    (without having any Streams)

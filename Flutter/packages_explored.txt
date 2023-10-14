@@ -7,3 +7,8 @@ packages_explored
 
 - multi_select_flutter
 - flutter_portal   // overlays simplified
+
+
+dart 
+
+- html_unescape  // https://github.com/filiph/html_unescape/blob/master/lib/src/base.dart

@@ -18,6 +18,37 @@ https://academind.com/tutorials/flutter-push-notifications
 [Ideal] <---* IMPL
 https://medium.com/@yshean/implementing-push-notifications-in-flutter-apps-aef98451e8f1
 
+[deep link | kinjal dhamat]
+https://medium.com/@kinjal.dhamat.sa/the-ultimate-guide-to-app-links-web-links-deep-links-universal-links-and-dynamic-links-in-afd353becff6
+
+[fcm flutter navigate]  <--***
+https://medium.com/firebase-developers/flutter-fcm-how-to-navigate-to-a-particular-screen-after-tapping-on-push-notification-8cb5d5111ee6
+
+[Santosh Adiga]
+https://santhosh-adiga-u.medium.com/flutter-firebase-push-notification-complete-reference-df2a9c683c01
+
+[Ken Lee]
+https://medium.com/@kenaragorn/flutter-push-notification-with-firebase-cloud-messaging-fcm-and-routing-to-specific-screen-b065742f2e5e
+
+[huwaei push notif]
+https://medium.com/huawei-developers/deep-linking-on-flutter-using-huawei-push-kits-custom-intents-958fedb7490a
+
+[uni link]
+https://blog.logrocket.com/understanding-deep-linking-flutter-uni-links/
+
+[Somnio Effective Push Notif]
+https://somniosoftware.com/post/how-to-effectively-implement-push-notifications-in-your-flutter-app
+
+
+------
+Deep/Dynamic Link 
+
+https://blog.devgenius.io/firebase-flutter-dynamic-links-step-by-step-guide-630402ee729b
+
+https://baguskto.medium.com/migrating-from-firebase-dynamic-links-in-flutter-your-essential-guide-before-the-shutdown-94e2bc0d6267
+
+https://medium.com/@kamrani062/exploring-alternative-deep-linking-solutions-for-flutter-apps-5132120334de
+
 [Push Notification and Deep Link]
 https://www.youtube.com/watch?v=p7aIZ3aEi2w
 
@@ -73,6 +104,9 @@ Youtube -->
 
   [Flutter Force]
   https://youtu.be/6zeRdqgliJY?si=l3_c6sZgoK1v7Vcy
+
+  [Flutter Plabs]
+  https://youtu.be/jUpj13dZQQc?si=_amhr_-4TtcD45O2
 
 
 * Push Notification Work :

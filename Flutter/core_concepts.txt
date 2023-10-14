@@ -15,6 +15,11 @@ https://api.flutter.dev/flutter/widgets/EditableText-class.html
   - Most commonly used platform (native) APIs have corresponding flutter plugins
   - Plugin wraps the native API & exposes the dart interface that can be used in your flutter code
     (Behind the scene plugins makes necessary API calls depending on Platform)
+    
+
+* Flutter Web Plugins : [Add Support for Native JS in your Flutter Package/Plugin]
+  ----
+  https://tbrgroup.software/writing-a-flutter-web-plugin-with-javascript/
 
 
 * Flutter & Rendeirng :

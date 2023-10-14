@@ -1,0 +1,6 @@
+ref lang articles
+
+[Lazy Iterable ]
+https://medium.com/mobile-app-development-publication/kotlin-slow-list-and-lazy-sequence-61691fc974c5
+
+https://stackoverflow.com/questions/35629159/kotlins-iterable-and-sequence-look-exactly-same-why-are-two-types-required#:~:text=As%20said%20above%2C%20Iterable%3CT,cache%2C%20prediction%2C%20prefetching%20etc.
