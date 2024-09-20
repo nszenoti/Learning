@@ -2,13 +2,40 @@ packages_explored
 
 - flutter_parsed_text_field
 - detectable_text_field
+- regex_pattern_text_field
 
 - searchable_dropdown
 
 - multi_select_flutter
 - flutter_portal   // overlays simplified
+- follow_the_leader
 
+- indexed_positioned_list
+- scrollable_positioned_list
+- inview_notifier_list
+
+- visibility_detector
+
+- smart_search_dropdown
+
+- responsive_sizer
+
+- slang  // internationalization/ localization
+
+- get_it
+  get_it_mixin
+
+- custom_text
+
+- animated_custom_dropdown
+
+- fl_chart
 
 dart 
 
 - html_unescape  // https://github.com/filiph/html_unescape/blob/master/lib/src/base.dart
+
+
+---- Useful ----
+
+fluttegen  // for assets (colors, strings, ...)

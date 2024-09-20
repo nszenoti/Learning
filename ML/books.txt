@@ -1,0 +1,5 @@
+books
+
+Practical Statistics for Data Scientists
+
+the machine learning simplified

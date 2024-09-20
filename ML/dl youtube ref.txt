@@ -1,5 +1,20 @@
 dl youtube ref
 
+* Maths 
+
+- linear algebra full course
+  (freecodecamp) https://youtu.be/rSjt1E9WHaQ?si=J7LJJX6Czn8wb4ye
+
+  (digital daru) https://youtube.com/playlist?list=PLPzjifo9TUNVDnm5WsERGGEeGwaysd7VL&si=WazaNOB2i6tJFlJV
+
 
 [DL-Crash Course]
 https://www.youtube.com/watch?v=r0Ogt-q956I
+
+[Neural Network & Deep Learning Maths]
+https://youtu.be/Ixl3nykKG9M?si=e3dNyUzFqxN9vfMo
+
+* Maths for ML
+
+- weights & biases 
+  // https://youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg&si=XUS2a-cHK9i77HJo

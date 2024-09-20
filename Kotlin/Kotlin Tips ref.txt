@@ -1,0 +1,4 @@
+Kotlin Tips red
+
+Companion Obj
+https://stackoverflow.com/questions/59331118/use-companion-object-in-kotlin-android-is-a-good-practice

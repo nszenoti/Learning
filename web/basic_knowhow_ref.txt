@@ -1,1 +1,6 @@
 https://levelup.gitconnected.com/script-tags-do-they-belong-in-the-body-or-the-head-section-be5733e38347
+
+
+https://webplatformcourse.com/bonus/messaging/
+
+https://www.seancdavis.com/posts/dynamically-add-javascript-and-css-files-to-your-website-using-javascript/

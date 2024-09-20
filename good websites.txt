@@ -1,0 +1,68 @@
+good websites
+
+https://www.crio.do/blog/20-basic-linux-commands/  
+https://www.stratascratch.com/blog/
+
+https://kinsta.com/blog/linux-commands/#:~:text=Linux%20Commands%20FAQ,-What%20Is%20the&text=pwd%20(Prints%20the%20working%20directory,and%20renames%20files%20and%20directories)
+
+https://ryanstutorials.net/   // general computer science
+the odin project   // web full stack
+
+plague fox  // flutter
+flutter clutter  // flutter
+https://codewithandrea.com/  // flutter
+
+// Kotlin 
+
+https://typealias.com/   
+https://blog.rockthejvm.com/big-kotlin-tutorial  
+https://www.cosmiclearn.com/kotlin/index.php
+
+* Python
+
+pymotw 
+realpython  
+https://github.com/gto76/python-cheatsheet
+https://jerry-git.github.io/daily-dose-of-python/doses/1/
+pythoncheatsheet.org/cheatsheet
+https://www.pythonsheets.com/
+https://dabeaz-course.github.io/practical-python
+https://book.pythontips.com/en/latest/#
+https://github.com/dennyzhang/cheatsheet-python-A4?tab=readme-ov-file
+https://github.com/satwikkansal/wtfpython#-first-things-first-
+
+* Android
+
+kodeco  
+proandroiddev
+https://blog.mindorks.com/ 
+https://android-arsenal.com/  
+
+https://www.jetpackcompose.net/
+
+* Go 
+
+https://gobyexample.com/  
+
+
+* SQL
+
+https://sqlzoo.net/wiki/SQL_Tutorial
+
+[BEST]
+https://datalemur.com/  
+
+https://www.stratascratch.com/ 
+
+https://www.stratascratch.com/blog/
+
+https://www.db-fiddle.com/
+
+https://mode.com/sql-tutorial  
+https://datalemur.com/sql-tutorial
+https://bipp.io/sql-tutorial/
+https://careerfoundry.com/en/blog/data-analytics/how-to-use-sql/
+https://careerfoundry.com/en/blog/data-analytics/advanced-sql/
+
+
+

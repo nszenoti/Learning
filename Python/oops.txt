@@ -1,0 +1,12 @@
+oops
+
+https://realpython.com/python3-object-oriented-programming/
+https://realpython.com/python-classes/
+https://realpython.com/python-class-constructor/
+
+https://realpython.com/duck-typing-python/
+https://realpython.com/python-type-checking/
+
+https://realpython.com/preview/python-protocol/
+https://realpython.com/python-classes/#special-methods-and-protocols
+https://realpython.com/python-repr-vs-str/

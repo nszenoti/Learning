@@ -1,0 +1,19 @@
+File-Folder-Structure-1
+
+
+api 
+routing
+theme
+widgets
+app 
+features
+services
+core
+utils
+
+
+----
+presentation  // screens
+widgets
+business-logic
+repository

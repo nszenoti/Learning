@@ -1,3 +1,10 @@
 localization
 
 https://phrase.com/blog/posts/flutter-localization/
+
+
+https://saimana.com/list-of-country-locale-code/
+
+https://docs.dyspatch.io/localization/supported_languages/
+
+https://help.gooddata.com/cloudconnect/manual/locale.html

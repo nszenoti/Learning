@@ -1,0 +1,13 @@
+Bloc
+
+Flutter Bloc 
+- Akshit Madan (https://www.youtube.com/live/Y1roIi0-Sro?si=xF83A38jUWX88EC7)
+
+- https://petercoding.com/flutter/2022/02/27/using-bloc-pattern-in-flutter/
+
+- https://biplabdutta.com.np/posts/form-validation/
+
+
+[Freezed + Bloc]
+https://fnfidanci.medium.com/flutter-dart-bloc-pattern-with-freezed-part-1-83b9bc6f9333
+https://dev.to/ptrbrynt/why-bloc-freezed-is-a-match-made-in-heaven-29ai

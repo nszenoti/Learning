@@ -1,0 +1,3 @@
+notes
+
+https://medium.com/@zalewski/exploring-design-and-development-principles-in-backend-development-09ec61aa4e01

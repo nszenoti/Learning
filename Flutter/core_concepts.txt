@@ -40,3 +40,20 @@ https://api.flutter.dev/flutter/widgets/EditableText-class.html
   ----
   [**IMP***]
   https://betterprogramming.pub/why-is-flutter-fast-part-2-layered-architecture-c8954b03e994
+
+
+* Flutter Native Commun
+  ---
+  https://betterprogramming.pub/communicate-between-flutter-and-native-android-and-ios-code-using-platform-channel-7932f46b6aee
+
+
+* Flutter & Focus :
+  ---
+  Whenever any widgets gain focus the focus event is passed/propogated till root (ie Upwards)
+  & 
+  all the FocusNode in that path will have theie onFocusChange() being called.
+
+
+* Flutter Listen to Focus & TextEditingController
+  ----
+  Listenable.merge()  // animation

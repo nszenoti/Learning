@@ -2,3 +2,14 @@ routing
 
 - packages :
   gorouter, autoroute, qlever_router
+
+
+* ModalRoutes
+  https://nitishk72.medium.com/flutter-advance-routing-and-navigator-df0f86f0974f
+
+
+https://medium.com/@brianmwangi_dev/better-navigation-in-flutter-using-getx-ceeedd5c8f28
+
+https://blog.openreplay.com/deep-linking-in-flutter/
+
+https://sellsbrothers.com/understanding-flutter-deep-links-on-the-web

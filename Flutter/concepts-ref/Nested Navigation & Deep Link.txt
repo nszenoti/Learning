@@ -13,3 +13,7 @@ https://betterprogramming.pub/how-to-handle-page-routing-in-flutter-using-the-ro
 https://nitishk72.medium.com/flutter-advance-routing-and-navigator-df0f86f0974f
 
 https://medium.com/flutter-community/deep-links-and-flutter-applications-how-to-handle-them-properly-8c9865af9283
+
+
+
+https://medium.com/flutter-community/flutter-navigator-middleware-part1-9ebc47cea2f2

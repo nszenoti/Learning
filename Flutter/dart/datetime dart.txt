@@ -1,0 +1,11 @@
+datetime
+
+https://prafullkumar77.medium.com/flutter-format-a-date-with-locale-using-dart-c6fa400c8a53
+https://stackoverflow.com/questions/72900844/get-hour-of-a-specific-timezone-in-dart
+
+https://docs.oracle.com/middleware/1221/wcs/tag-ref/MISC/TimeZones.html
+
+https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+https://andreygordeev.com/flutter-dateformat-cheat-sheet/

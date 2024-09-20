@@ -1,0 +1,21 @@
+Flutter New App Keep In Mind
+------
+
+* MicroService Flutter App
+
+
+1) Use Barrel File in each folder (ie index.dart)
+
+2) Differentiate App & API(Repo) folder
+
+3) Always put things under the folder-tree from where it can be used atleast
+   (Don't put unnnecessary things in common at root level)
+
+4) Create Barrel file for each folder
+
+5) Create Environment File for environment variables (token, param-dependency)
+
+6) Use flutter_gen for (resource gen)
+   - assets class gen
+   - colors class gen
+  

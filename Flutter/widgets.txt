@@ -12,3 +12,5 @@ RawKeyboardListener
 ExpansionTile
 
 BarrierModal
+
+DefaultTextStyle  // provide default text style down subtree

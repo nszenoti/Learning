@@ -2,3 +2,23 @@ amazing_usecase_articles
 
 [Chat with pusher]
 https://www.kodeco.com/36641486-live-chat-with-pusher-using-provider
+
+[Items Visible in ListView Viewport]
+https://stackoverflow.com/questions/57011733/find-out-which-items-in-a-listview-are-visible
+https://gist.github.com/debuggerx01/49f108d68ed903458e9478b4f0c186f4
+
+
+[Hover Detector]
+https://gist.github.com/onatcipli/8108816d23654b06116930b2ca027a0e
+
+[Login Page]
+https://github.com/Biplab-Dutta/form-validation/blob/master/lib/presentation/pages/login_page.dart
+
+[MeasureSize]
+https://stackoverflow.com/questions/62503613/how-to-use-sizechangedlayoutnotifier
+
+[Focus & Scroll & Keyboard-Shortcut]
+https://geekyants.com/blog/enhancing-user-navigation-implementing-arrow-key-scrolling-in-flutter-web
+
+[how-to-overlay-a-widget-on-top-of-a-flutter-app]
+https://stackoverflow.com/questions/57069641/how-to-overlay-a-widget-on-top-of-a-flutter-app

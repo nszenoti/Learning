@@ -1,0 +1,4 @@
+good_packages_to_check
+
+intl_phone_number_input   // assets inside package (+ Web Native Code)
+intl_phone_field         // assets inside package

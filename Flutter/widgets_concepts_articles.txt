@@ -8,3 +8,7 @@ https://www.youtube.com/watch?v=OOEyJ0ct0Sg  // HeyFlutter
 
 [FormFields]
 https://medium.com/saugo360/creating-custom-form-fields-in-flutter-85a8f46c2f41
+
+
+[Charts]
+https://dev.to/redhunter7/flutter-create-simple-bar-chart-8gl

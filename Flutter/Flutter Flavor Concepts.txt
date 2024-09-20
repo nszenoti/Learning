@@ -9,3 +9,6 @@ Flutter Flavor Concepts
 
 - State Management
 
+- WidgetsBinding vs SchedulerBindings
+
+- ListenableBuilder

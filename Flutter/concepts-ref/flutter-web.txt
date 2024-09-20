@@ -1,0 +1,42 @@
+flutter-web
+
+https://arnemolland.medium.com/embedding-flutter-in-web-native-applications-91a2e2f56c9a
+
+https://softwareas.com/cross-domain-communication-with-iframes/
+
+https://stackfame.com/access-parent-of-iframe-javascript
+
+
+* Element Embedding 
+  ---
+  https://github.com/AseemWangoo/flutter_programs/blob/master/web_embedding/web/index.html
+
+
+https://fireship.io/snippets/using-js-with-flutter-web/
+
+
+* [Flutter Web Plugin]
+https://tbrgroup.software/writing-a-flutter-web-plugin-with-javascript/
+
+
+https://blog.stackademic.com/utilizing-js-library-for-flutter-web-c683c590927f
+
+
+
+https://github.com/dart-lang/sdk/issues/43244
+
+
+[Iframe & Parent Communication]
+https://stackoverflow.com/questions/9153445/how-to-communicate-between-iframe-and-the-parent-site
+
+https://medium.com/@andcachia/communication-between-flutter-iframe-and-html-parent-9fd7acd33ebf
+
+https://javascriptbit.com/transfer-data-between-parent-window-and-iframe-postmessage-api/
+
+[Cross Origin Local Storage]
+https://gist.github.com/buren/8d7c831822bc474164cc37dd522c2d1d
+
+
+
+[Flutter Web Routing]
+https://sellsbrothers.com/understanding-flutter-deep-links-on-the-web

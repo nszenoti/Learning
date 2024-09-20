@@ -1,0 +1,30 @@
+context_amazing_tip
+
+In Flutter, certain widgets provide a BuildContext that references the parent or previous widget in the tree, allowing you to access properties or methods before moving to a new route or layer.
+
+--- 
+
+Navigator's builder Context:
+When using a Navigator to push a new route, the builder method provides a BuildContext that can access the previous route's context. This allows you to retrieve information from the current screen before transitioning to the new one.
+
+Navigator.of(context).push(
+  MaterialPageRoute(
+    builder: (context) {
+      // This context is still referencing the previous screen
+      final previousWidth = MediaQuery.of(context).size.width;
+      return NewScreen();
+    },
+  ),
+);
+
+
+--- 
+
+The Builder widget in Flutter creates a new BuildContext, which is a descendant of the parent widget. This allows you to use the new context to look up properties from the parent context, like Theme, MediaQuery, etc., that might not be available within the same scope.
+
+Builder(
+  builder: (context) {
+    final width = MediaQuery.of(context).size.width;  // Uses parent context
+    return Container(width: width / 2, color: Colors.blue);
+  },
+);

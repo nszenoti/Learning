@@ -1,0 +1,13 @@
+getx-
+
+
+https://dev.to/this-is-learning/how-to-create-an-app-with-getx-architect-in-flutter-2ehk
+
+
+https://github.com/abdulmominsakib/getx_flutter_structure
+
+https://github.com/hasancse91/flutter_getx_template/tree/master/lib/app
+
+https://github.com/phamdinhduc795397/flutter-getx-clean-architecture
+
+https://github.com/junbjnnn/getx_clean_architecture

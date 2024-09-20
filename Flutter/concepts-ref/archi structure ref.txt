@@ -1,0 +1,106 @@
+archi structure ref
+
+Some Good Mine Explored
+
+[Advance Level]
+- https://github.com/hawkkiller/sizzle_starter
+
+  [API segregation]
+- geekyants flutter starter
+  
+  [Assets, Colors, Styles,...]
+- https://blog.codemagic.io/flutter-tutorial-organising-your-flutter-app/
+
+- DartBucket (Youtube)   <-- ** Best1
+- Flutter Guys (Youtube)
+
+- Andrea Bizatot 
+
+- https://github.com/RashmiRanganathan/clean-code-architecture-flutter
+- https://github.com/guilherme-v/flutter-clean-architecture-example
+
+- DhiwWise Flutter Project Structure 
+  (The Flutter Way)  <--- Youtube
+
+  [***]
+- https://medium.com/flutter-community/flutter-scalable-folder-files-structure-8f860faafebd 
+
+  [***]
+- https://ishaileshmishra.medium.com/scalable-folder-files-structure-for-flutter-application-3425a4c5cb93
+
+[**IMP]
+https://felipeemidio.medium.com/folder-structure-for-flutter-with-clean-architecture-how-i-do-bbe29225774f
+
+[Clean Archi]
+https://dev.to/dyarleniber/hexagonal-architecture-and-clean-architecture-with-examples-48oi#:~:text=The%20Infrastructure%20layer%20is%20the,%2C%20the%20database%20connections%2C%20etc.
+
+------
+
+https://blog.codemagic.io/flutter-tutorial-organising-your-flutter-app/
+
+https://www.kodeco.com/3595916-clean-architecture-tutorial-for-android-getting-started
+
+https://www.codeproject.com/Articles/5351235/Clean-Architecture-Incorporating-Repository-Patter
+
+https://proandroiddev.com/clean-architecture-data-flow-dependency-rule-615ffdd79e29
+
+
+https://felipeemidio.medium.com/folder-structure-for-flutter-with-clean-architecture-how-i-do-bbe29225774f
+
+
+https://duskosavic.com/blog/flutter/how-to-structure-flutter-app-when-using-bloc-pattern/
+
+https://www.freecodecamp.org/news/flutter-stacked-architecture-todo-app/
+
+https://levelup.gitconnected.com/scalable-flutter-folder-structure-for-big-apps-480a9b266793
+
+https://codewithandrea.com/articles/flutter-app-architecture-riverpod-introduction/
+
+[Entities & Interface Adapters]
+https://medium.com/@gushakov/clean-architecture-domain-entities-and-interface-adapters-4152b9ee22d2
+
+[Multiple Architectures]
+https://devmuaz.medium.com/flutter-clean-architecture-series-part-1-d2d4c2e75c47
+
+[Scalable Structure]
+https://medium.com/flutter-community/scalable-folder-structure-for-flutter-applications-183746bdc320
+
+[***IMP---]
+https://ishaileshmishra.medium.com/scalable-folder-files-structure-for-flutter-application-3425a4c5cb93
+
+https://medium.com/flutter-community/flutter-scalable-folder-files-structure-8f860faafebd
+
+
+
+https://mobileappcircular.com/clean-architecture-in-flutter-a-quick-beginners-guide-844e89174655
+
+https://flutterawesome.com/flutter-getx-skeleton-project-to-make-creating-project-process-fast-and-easy/
+
+https://medium.com/@kamal.lakhani56/clean-architecture-f23b7d9c6ee7
+
+[***]
+https://felipeemidio.medium.com/folder-structure-for-flutter-with-clean-architecture-how-i-do-bbe29225774f
+
+https://medium.com/@samra.sajjad0001/flutter-clean-architecture-5de5e9b8d093#:~:text=Clean%20Architecture%20is%20a%20software%20design%20principle%20that%20promotes%20the,to%20any%20software%20development%20framework.
+
+https://dev.to/marwamejri/flutter-clean-architecture-1-an-overview-project-structure-4bhf
+
+https://dev.to/rubemfsv/clean-architecture-applying-with-flutter-487b
+
+https://medium.com/@carlos.vicens.alonso/building-a-flutter-app-that-fits-in-with-your-micro-services-strategy-417a72e81732
+
+------
+
+Youtube
+
+DartBucket
+
+------
+Github
+
+https://github.com/hawkkiller/sizzle_starter <*****
+
+https://github.com/RashmiRanganathan/clean-code-architecture-flutter
+https://github.com/guilherme-v/flutter-clean-architecture-example
+
+https://github.com/kauemurakami/getx_pattern   // GETX

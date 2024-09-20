@@ -2,3 +2,18 @@ concepts and ref
 
 [Sourctree Embedded Git]
 https://confluence.atlassian.com/sourcetreekb/using-embedded-git-or-system-git-in-sourcetree-785323587.html
+
+
+[Git Config]
+https://www.freecodecamp.org/news/git-config-how-to-configure-git-settings/#:~:text=You%20can%20use%20the%20Git,gitconfig%20).
+
+
+[SignOff by default]
+https://stackoverflow.com/questions/15015894/git-add-signed-off-by-line-using-format-signoff-not-working
+
+
+https://gist.github.com/yinzara/bbedc35798df0495a4fdd27857bca2c1
+
+
+[Github with SSH | checking existing ssh]
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys

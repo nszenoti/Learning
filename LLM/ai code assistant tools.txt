@@ -1,0 +1,11 @@
+tools
+
+- codegx
+- copilot
+- codium    // IMP
+
+- replit   // IMP
+
+- sourcegraph's cody  // IMP
+
+- blackbox

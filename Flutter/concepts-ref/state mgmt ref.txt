@@ -21,12 +21,21 @@ https://www.mitrais.com/news-updates/getting-started-with-flutter-bloc-pattern/
 
 https://stackoverflow.com/questions/74455551/why-do-we-use-bloc-in-projects
 
+https://stackoverflow.com/questions/58144116/bloc-should-every-state-be-a-separate-class
+
+[Search in Correct Way]
+https://medium.com/codex/the-right-way-to-implement-a-search-feature-to-filter-a-list-using-bloc-in-flutter-799969781fdb
+https://levelup.gitconnected.com/github-search-and-bloc-523d51848c68
+
 [Cubit]
 https://medium.com/@gianpigatto1/cubit-101-what-is-it-how-to-use-it-and-more-6c16ea66ba88
 
 
 [GetX EcoSystem]
 https://medium.com/flutter-community/the-flutter-getx-ecosystem-state-management-881c7235511d
+
+[Lets Getx in Flutter]
+https://medium.com/mindful-engineering/lets-getx-in-flutter-4eaff2826ac7
 
 [The Tech Brothers]
 https://youtube.com/playlist?list=PLFyjjoCMAPtzkAdWec1KTedogwztEEqJ8&si=i0FlPMRLgR5HVT1R
@@ -37,3 +46,9 @@ packages
 
 momentum
 hermep
+
+------
+Youtube Videos
+
+[Choosing Right State Managegement] | [Lambda Dev]
+https://www.youtube.com/watch?v=iZBRr2LK4oQ

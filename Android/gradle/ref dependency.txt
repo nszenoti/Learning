@@ -1,3 +1,8 @@
 ref dependency
 
 https://proandroiddev.com/different-ways-to-handle-android-gradle-dependencies-68ae00ca286c
+
+https://proandroiddev.com/how-to-manage-dependencies-in-multi-module-project-84620afbb415
+
+
+https://itnext.io/android-data-repository-a-simple-pattern-that-we-often-misunderstand-6a6fb13b5a81

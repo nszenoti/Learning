@@ -1,0 +1,45 @@
+design patterns useful
+
+Youtube
+
+About Clean Code
+https://www.youtube.com/watch?v=pfhDO_hZixw&t=1s
+
+David Serrano
+https://youtu.be/eEt6JrMuPZw?si=fmtghEzXGCEEVsvz
+
+[Generic Repository Pattern]
+https://youtu.be/kwehxBDX_o8?si=2qCXmMYT5QJyCHVk
+
+[Repository Pattern]
+https://youtu.be/x6C20zhZHw8?si=BUiaaIj5KTkFOmlD
+
+
+------
+
+https://www.kodeco.com/24509368-repository-pattern-with-jetpack-compose
+
+https://proandroiddev.com/the-real-repository-pattern-in-android-efba8662b754
+
+[Singleton & Repository]
+https://medium.com/@miguel.amezola/the-power-of-two-how-combining-the-singleton-and-repository-design-patterns-to-improve-data-access-856e8939b570
+
+[DI & OPPS & MOCKS]
+https://santoshk.dev/posts/2022/this-is-how-oops-and-mocking-are-related-to-dependency-injection/
+
+
+[Repository Design Pattern]
+https://itnext.io/android-data-repository-a-simple-pattern-that-we-often-misunderstand-6a6fb13b5a81
+
+
+[Design Patterns]
+https://needlify.com/post/solid-principles-explained-with-examples-a84f0918
+
+[Dependency Injection]
+https://stackify.com/dependency-injection/#:~:text=Dependency%20injection%20is%20a%20programming,inversion%20and%20single%20responsibility%20principles.
+
+[Dependency Injection]
+https://cult.honeypot.io/reads/5-reasons-to-use-dependency-injection-in-your-code/
+
+[BLOC & Adapter]
+https://stackoverflow.com/questions/14234734/mapping-entities-to-models-and-performing-business-logic-in-asp-net-mvc

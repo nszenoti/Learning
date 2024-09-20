@@ -1,0 +1,31 @@
+Git Tips
+
+https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13
+
+https://efren45marin.medium.com/how-to-take-your-git-commit-messages-to-the-next-level-with-a-commit-template-cd3a608b1ac9
+
+Git Commit Msg Like Pro
+https://www.youtube.com/watch?v=OJqUWvmf4gg
+
+Git Conventional COmmit Message
+https://www.conventionalcommits.org/en/v1.0.0/
+https://www.youtube.com/watch?v=lwGcnDgwmFc
+
+https://medium.com/neudesic-innovation/conventional-commits-a-better-way-78d6785c2e08
+
+https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13
+
+[Template]
+https://dev.to/abbeyperini/git-commit-message-template-in-terminal-and-vs-code-326p
+
+https://alex-wasik.medium.com/create-a-custom-git-commit-template-84468232a459
+
+
+[Branch Name]
+https://tilburgsciencehub.com/building-blocks/collaborate-and-share-your-work/use-github/naming-git-branches/
+
+https://dev.to/varbsan/a-simplified-convention-for-naming-branches-and-commits-in-git-il4
+
+
+[Rebase vs Merge]
+https://github.com/fork-dev/TrackerWin/issues/1432

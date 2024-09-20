@@ -1,0 +1,6 @@
+doubts
+
+* Notification -> setAction() vs contentIntent()
+
+* click_action vs pendingIntent (ie contentIntent)
+

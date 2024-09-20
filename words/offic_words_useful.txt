@@ -10,3 +10,5 @@ unobtrusive: not conspicuous, modest, quiet, not attracting attention
 meek: quiet, gentle, submissive
 
 contentious: debatable, controversial, disputable
+inane : silly
+insidious : subtly

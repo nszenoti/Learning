@@ -1,0 +1,7 @@
+ui
+
+VerticalDivider & Row
+
+In Flutter, when using a Row to display items and you want to include a VerticalDivider between them, it's essential to ensure that the Row has a height constraint. Without height constraints, the VerticalDivider will not display correctly because it won't have a defined height to render.
+
+One common approach to ensure the VerticalDivider is visible is to wrap the Row in a Container with a specified height or to use a parent widget that imposes height constraints.

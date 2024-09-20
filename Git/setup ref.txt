@@ -1,0 +1,3 @@
+setup ref
+
+https://nazmul-ahsan.medium.com/how-to-prevent-ssh-key-passphrase-prompt-every-time-you-launch-wsl-6856eae31add

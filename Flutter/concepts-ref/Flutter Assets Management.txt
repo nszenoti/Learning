@@ -1,0 +1,5 @@
+Flutter Assets Management 
+
+
+[FlutterGen package]
+https://medium.com/@tkarmakar27112000/asset-generation-in-flutter-5b0c4080bc8d

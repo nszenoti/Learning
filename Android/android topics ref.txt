@@ -4,6 +4,8 @@ android topics ref
 https://proandroiddev.com/gradle-deep-dive-demystifying-the-groovy-script-c90d79a36320
 https://www.studytonight.com/android/introduction-to-gradle
 
+https://proandroiddev.com/different-ways-to-handle-android-gradle-dependencies-68ae00ca286c
+
 [Dex File Format]
 https://www.bugsnag.com/blog/dex-and-d8/
 
@@ -22,6 +24,8 @@ https://youtu.be/NF0RzhXDRKw?si=zq1J_sBSlahUCOJj
 
 Firebase FCM Custiomise Notification | Background Mode
 https://www.youtube.com/watch?v=5UDqjTXGl0k
+https://www.youtube.com/watch?v=WhtZGP_uK_s
+https://www.youtube.com/watch?v=82uwhCj3zuI&t=903s
 
 [FCM Push and Local]
 https://itnext.io/fcm-push-notification-local-notification-13117f447255
@@ -38,3 +42,54 @@ https://firebase.google.com/docs/cloud-messaging/android/receive#java
 
 [FCM manage tokens]
 https://firebase.google.com/docs/cloud-messaging/manage-tokens
+
+[Notification Handling]
+https://medium.com/@mountainappstudio/open-specific-activity-when-notification-clicked-in-fcm-android-app-development-f1c1d9a75fb5
+
+https://medium.com/@shayan.ta69/how-to-handle-fcm-notification-in-backgrounded-android-applications-29229c4f9975#:~:text=So%20if%20you%20want%20to,to%20send%20messages%20to%20clients.
+
+https://stackoverflow.com/questions/40718155/open-specific-activity-when-notification-clicked-in-fcm
+
+https://sid-android.medium.com/how-to-receive-firebase-notifications-even-when-app-is-killed-75a004a852cc#:~:text=You%20will%20not%20see%20onMessageReceived%20in%20background%20because%20process%20is%20killed.&text=As%20of%20developer%20documentation%20WakefulBroadcastReceiver,work%20off%20to%20a%20android.
+
+[Task & Affinity]
+https://medium.com/wiselteach/activity-back-stack-and-launch-mode-part-1-693130682120
+
+https://medium.com/androiddevelopers/tasks-and-the-back-stack-dbb7c3b0f6d4
+
+[Pending Intent]
+https://medium.com/androiddevelopers/all-about-pendingintents-748c8eb8619
+
+https://www.usna.edu/Users/cs/adina/teaching/it472/spring2021/course/page.php?shortname=mobileos&id=20
+
+
+https://proandroiddev.com/all-about-notifications-in-android-718961054961
+
+https://www.topcoder.com/thrive/articles/introduction-to-intent-in-android
+
+https://codingwithtashi.medium.com/firebase-onmessagereceived-not-called-when-app-in-background-18e78280c6cb
+
+------ Issues
+
+[Issue Notification Message Background]
+https://stackoverflow.com/questions/40804803/not-opening-specific-activity-on-notification-click-when-the-app-is-in-backgroun
+
+https://stackoverflow.com/questions/28258404/singletask-and-singleinstance-not-respected-when-using-pendingintent
+
+https://stackoverflow.com/questions/46466870/whats-different-between-taskstackbuilder-addparentstack-and-taskstackbuilder
+
+https://rohitksingh.medium.com/why-and-how-to-use-taskstackbuilder-in-android-420983dd1de2
+
+https://stackoverflow.com/questions/36912325/why-do-we-use-the-taskstackbuilder
+
+https://stackoverflow.com/questions/37358462/firebase-onmessagereceived-not-called-when-app-in-background
+
+[** IMP]
+https://stackoverflow.com/questions/33542919/using-taskstackbuilder-in-notification-recreates-an-activity
+
+https://copyprogramming.com/howto/notification-click-not-opening-specific-activity-when-the-app-is-in-background-not-running
+
+[Not working for non-launcher activity]
+https://stackoverflow.com/questions/20881226/pending-intent-in-notification-not-working
+
+https://stackoverflow.com/questions/37407366/firebase-fcm-notifications-click-action-payload

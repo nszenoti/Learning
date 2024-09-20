@@ -1,0 +1,49 @@
+clean archi notes
+
+[NOTE]
+=> Anything can be keep as Singletons unless its not storing any State !!
+
+Tips
+1. Start with the Use Cases
+2. Push I/O to the Corners
+3. Put parsing & Formatters into Adapters
+4. Use Dependency Inversion 
+   (Outer layer depends on Inner Layer & not vice versa)
+
+* Repository 
+  ---
+  -> Repositories are like Infrastructure
+  -> To collect data & provide it to app is main purpose of Repos.
+  -> Deals with DB, External API call, Cache, ...
+  -> Deals with all external sources
+
+  -> Depends on the contracts/interfaces from application/domain
+
+
+* Dependency Injection :
+  ---
+  -> Code reusability
+  -> Dependency Inversion
+  -> Mocking Dependency & Unit testing
+
+
+* Services :
+  ---
+  -> Implement Task Logic
+
+
+* Interface Adapter Layer :
+  ---
+  => Responsible for converting data to format that is most suitable for outsiders ie DB, Mobile, Web, ...
+
+  - Repository
+  - Presenters
+
+
+* Entities & UseCase (Who will hold Business Logic)
+  ---
+  (ref: https://nanosoft.co.za/blog/post/clean-architecture-entity-model)
+
+  -> Entities will still hold Business Logic specific to entity
+  -> Usecase will facilitate the impl of Usecase via one or more entities & their business logic
+  

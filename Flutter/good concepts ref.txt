@@ -53,6 +53,10 @@ good concepts ref
   ---
   https://nitishk72.medium.com/form-validation-in-flutter-d762fbc9212c
 
+* Global Key
+  ---
+  https://stackoverflow.com/questions/56895273/how-to-use-globalkey-to-maintain-widgets-states-when-changing-parents
+
 
 * Animate the size of Container
   ---
@@ -61,3 +65,46 @@ good concepts ref
 * Flutter Web Deep Links 
   ---
   https://sellsbrothers.com/understanding-flutter-deep-links-on-the-web
+
+
+* Handle Imports in Flutter
+  ---
+  https://maruf-hassan.medium.com/handling-flutter-imports-like-a-pro-8ac128f0a6fd
+
+* Flutter & Native :
+  ---
+  https://blog.devgenius.io/use-flutter-screens-in-native-android-app-share-data-among-them-d97d670807a6
+
+
+* Helpers vs Widgets :
+  ---
+  https://blog.codemagic.io/how-to-improve-the-performance-of-your-flutter-app./
+  https://stackoverflow.com/questions/73294818/performance-difference-between-widget-function-and-class
+
+* WidgetView
+  ---
+
+* Customize Animation Flutter
+  ---
+  https://www.boltuix.com/2023/03/how-to-create-different-types-of.html
+
+
+* Stateless Widget & Providers
+  ---
+  https://dev.to/prakashselvaraj/providers-and-stateless-widget-2idg
+
+* Manage Data Globally 
+  ---
+  https://dev.to/lucianojung/global-variable-access-in-flutter-3ijm
+
+* Expansion/Collapsable Panel
+  ---
+  https://medium.com/flutter-community/flutter-expansion-collapse-view-fde9c51ac438
+
+* List View 
+  ---
+  https://medium.com/flutter-community/create-shop-list-with-flutter-d13d3c20d68b
+
+* Bindings
+  ---
+  https://medium.com/flutterworld/flutter-schedulerbinding-vs-widgetsbinding-149c71cb607f

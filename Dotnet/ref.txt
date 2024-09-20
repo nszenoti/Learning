@@ -7,3 +7,8 @@ dotnettutorials
 [clean archi]
 https://www.youtube.com/watch?v=j6u7Pw6dyUw
 https://www.youtube.com/watch?v=lkmvnjypENw
+https://youtu.be/AFcOyF_TWAg?si=nNhH8V_2uydKCXjN
+
+
+[Automapper]
+https://amrelsher07.medium.com/repository-pattern-with-automapper-in-net-core-213918e2e36b

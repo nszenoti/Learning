@@ -1,0 +1,28 @@
+tips_flutter_usecase
+
+
+* Find if scrollbar is actually attached in ListView or not !
+  NOTE: Until content doesn't overflow viewport, the scrollbar would not appear despite being scroll view
+
+  -> scrollController.position.maxExtent == 0  // in such case
+
+
+* To find which items are currently visible in the ViewPort of ScrollView
+  |
+  -> use package `scrollable_positioned_list`
+
+
+* Use 
+
+  InputDecorator + InputDecoration   // For Form Fields
+  DecoratedBox + BoxDecoration  // for Container/Box type Widgets 
+
+
+* StatefulBuilder & ValueNotifier :
+  ---
+  https://blog.devgenius.io/flutter-valuenotifier-and-valuelistenablebuilder-41c700315786
+
+
+* Darken / Lighten COlor extension
+  ---
+  https://stackoverflow.com/questions/58360989/programmatically-lighten-or-darken-a-hex-color-in-dart

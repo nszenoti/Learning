@@ -2,3 +2,7 @@ IDS-SSO
 
 
 * Multi Tenant Application
+
+
+* Logout
+  https://auth0.com/docs/authenticate/login/logout/log-users-out-of-auth0

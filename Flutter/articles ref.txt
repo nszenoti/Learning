@@ -1,3 +1,22 @@
 articles ref
 
 kinjal dhamat // medium
+
+
+[FilledStacks]
+https://github.com/FilledStacks/flutter-tutorials
+
+https://quickcoder.org/flutter-assets/
+
+
+https://medium.com/@siddharthmakadiya/unlocking-the-power-of-yield-yield-async-and-async-in-flutter-588a82f9c445#:~:text=The%20'yield*'%20keyword%20is,function%20encounters%20a%20yield*%20expression.&text=The%20'async'%20keyword%20is%20used,a%20function%20that%20runs%20asynchronously.
+
+[A custom Flutter Web Framework]
+https://andrious.medium.com/a-flutter-web-framework-f612461dc037
+
+
+[Dart ]
+https://medium.com/@hamber/flutter-dart-solid-principles-and-top-design-patterns-3dd573371dcb
+
+[Animations]
+https://medium.com/flutter-community/flutter-animations-comprehensive-guide-cb93b246ca5d

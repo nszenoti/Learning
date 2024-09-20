@@ -1,3 +1,9 @@
 Funda
 
 * Fragment : 
+
+
+
+* Tasks & backStacks
+  ---
+  https://developer.android.com/guide/components/activities/tasks-and-back-stack.html

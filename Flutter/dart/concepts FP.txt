@@ -1,0 +1,26 @@
+concepts FP
+
+[IMP]
+https://dev.to/juanbelieni/dart-and-functional-programming-applying-haskell-concepts-with-dartz-3d21
+
+https://www.freecodecamp.org/news/functional-programming-patterns-cookbook-3a0dfe2d7e0a/
+https://blog.det.life/functional-programming-in-data-engineering-with-python-part-1-c2c4f677f749
+
+https://www.tweag.io/blog/2023-01-19-fp2-dial-m-for-monoid/
+
+[Functional Programming]
+https://youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo&si=ISYQ8QkhXlnAVVhY
+
+* Monad
+
+
+
+[Records & Pattern Matching]
+https://biplabdutta.com.np/posts/pattern-matching-dart/
+https://codewithandrea.com/articles/whats-new-dart-3-introduction/
+https://www.sandromaglione.com/articles/records-and-patterns-dart-language
+
+https://medium.com/@danijel.tolj.dev/using-dart-sealed-classes-with-pattern-matching-to-write-declarative-uis-in-flutter-4124de21426d
+
+
+https://medium.com/@danijel.tolj.dev/using-dart-sealed-classes-with-pattern-matching-to-write-declarative-uis-in-flutter-4124de21426d

@@ -31,3 +31,6 @@ General Guide
 https://quickcoder.org/flutter-assets/
 
 https://stackoverflow.com/questions/54069239/whats-the-best-practice-to-keep-all-the-constants-in-flutter
+
+[buildcontext amazing]
+https://medium.com/@azharbinanwar/coding-made-easy-using-handy-extensions-on-buildcontext-46283b3655be

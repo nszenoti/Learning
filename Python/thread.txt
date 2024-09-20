@@ -1,0 +1,4 @@
+thread
+
+
+https://dev.to/eteimz/how-pythons-multithreading-differs-from-other-languages-351h

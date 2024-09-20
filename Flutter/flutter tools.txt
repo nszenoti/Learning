@@ -1,3 +1,14 @@
 flutter tools
 
 Theta : buildwiththeta.com
+
+
+[Vscode Launch Config]
+https://dartcode.org/docs/launch-configuration/
+
+
+https://tree.nathanfriend.io/    // File/Folder Structure MD
+
+DhiWise  
+
+FlutterFlow

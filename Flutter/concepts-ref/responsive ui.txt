@@ -1,0 +1,13 @@
+responsive ui
+
+
+https://medium.com/flutter-community/flutter-effectively-scale-ui-according-to-different-screen-sizes-2cb7c115ea0a
+
+https://medium.com/flutter-community/flutter-responsive-design-size-doesnt-always-matter-6cd88b5e6f2c
+
+
+
+[**]
+https://stackoverflow.com/questions/49704497/how-to-make-flutter-app-responsive-according-to-different-screen-size
+
+https://medium.com/tagmalogic/widgets-sizes-relative-to-screen-size-in-flutter-using-mediaquery-3f283afc64d6

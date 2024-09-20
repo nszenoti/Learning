@@ -1,0 +1,18 @@
+environment variables setup flutter
+
+https://www.sandromaglione.com/articles/how-to-use-environmental-variables-in-flutter
+
+https://codewithandrea.com/articles/flutter-api-keys-dart-define-env-files/
+
+https://blog.albertobonacina.com/envied-the-best-way-to-handle-your-environment-variables-in-flutter
+
+https://www.sandromaglione.com/articles/how-to-use-environmental-variables-in-flutter
+
+https://bilalrehman08.medium.com/envied-in-flutter-e8182d03b4a2#:~:text=With%20Envied%2C%20you%20can%20securely,the%20management%20of%20sensitive%20information.
+
+https://developer.school/tutorials/how-to-use-environment-variables-with-flutter-dotenv
+
+https://dev.to/nombrekeff/handle-environment-variables-in-flutter-llf-8-366j
+
+
+https://itnext.io/secure-your-flutter-project-the-right-way-to-set-environment-variables-with-compile-time-variables-67c3163ff9f4

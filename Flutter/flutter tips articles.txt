@@ -20,3 +20,10 @@ https://betterprogramming.pub/a-comprehensive-guide-to-flutters-bloc-architectur
 https://medium.com/@alvaro.armijoss/flutter-performance-best-practices-86ac8101fb3
 
 https://medium.com/codebrew/offline-first-approach-with-flutter-ace2843d36d8
+
+
+[Bindings]
+https://medium.com/flutterworld/flutter-schedulerbinding-vs-widgetsbinding-149c71cb607f
+
+
+https://thiele.dev/

@@ -1,0 +1,59 @@
+singleton-pattern
+
+https://thiele.dev/blog/the-power-of-late-keyword-in-dart/#:~:text=Global%20%26%20static%20variables%20are%20late,how%20often%20you%20call%20them.
+
+Singleton implementations can be categorized based on whether the initialization is dependent on external parameters or not.
+
+REMEMBER: 
+If you define your variable as global or static, it is late by default. The variables are initialized only when you access them and then only once, no matter how often you call them
+
+ref: https://thiele.dev/blog/the-power-of-late-keyword-in-dart/#:~:text=Global%20%26%20static%20variables%20are%20late,how%20often%20you%20call%20them.
+
+---
+
+1. Singleton with Default Constructor (Independent Initialization)
+
+This is a basic singleton where the instance is created with default values and doesn't depend on any external parameters.
+
+class Person {
+  // Private static instance of the singleton
+  static final Person _instance = Person._internal();
+
+  // Private constructor
+  Person._internal();
+
+  // Factory constructor that returns the singleton instance
+  factory Person() {
+    return _instance;
+  }
+
+  // Example fields
+  String name = 'Default Name';
+  int age = 0;
+
+  // Example method
+  void greet() {
+    print('Hello, my name is $name and I am $age years old.');
+  }
+}
+
+void main() {
+  // Accessing the singleton instance
+  var person1 = Person();
+  person1.greet(); // Outputs: Hello, my name is Default Name and I am 0 years old.
+
+  person1.name = 'Alice';
+  person1.age = 30;
+
+  var person2 = Person();
+  person2.greet(); // Outputs: Hello, my name is Alice and I am 30 years old.
+
+  // person1 and person2 are the same instance
+  print(identical(person1, person2)); // Outputs: true
+}
+
+
+
+---
+
+2. Singleton with Dependent Initialization (Requires Parameters)

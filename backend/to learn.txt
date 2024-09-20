@@ -1,0 +1,10 @@
+to learn
+
+NodeJs
+
+Message Queues
+- Apache Kafka
+- Rabbit MQ
+
+Cloud Functions
+- AWS Lambda

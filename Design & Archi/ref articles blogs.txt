@@ -1,0 +1,26 @@
+ref articles blogs
+
+https://santoshk.dev/posts/
+
+https://refactoring.guru/design-patterns/composite
+
+
+https://needlify.com/post/solid-principles-explained-with-examples-a84f0918
+
+[Clean Archi - Detailed]
+https://medium.com/dotnet-hub/clean-architecture-with-dotnet-and-dotnet-core-aspnetcore-overview-introduction-getting-started-ec922e53bb97#:~:text=Specifications-,Infrastructure%20Layer,3rd%2Dparty%20library%20and%20systems.
+
+
+https://www.milanjovanovic.tech/blog/clean-architecture-folder-structure
+
+https://dev.to/joaosczip/clean-architecture-a-little-introduction-4ag6
+
+
+[Clean Archi- Entitiy]
+https://nanosoft.co.za/blog/post/clean-architecture-entity-model
+
+
+[Design Patterns]
+https://refactoring.guru/design-patterns/factory-method
+https://sourcemaking.com/design_patterns/abstract_factory
+https://python-patterns.guide/

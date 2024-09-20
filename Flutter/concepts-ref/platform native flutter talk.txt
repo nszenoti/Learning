@@ -1,0 +1,5 @@
+platform native flutter talk
+
+https://betterprogramming.pub/communicate-between-flutter-and-native-android-and-ios-code-using-platform-channel-7932f46b6aee
+
+https://blog.devgenius.io/use-flutter-screens-in-native-android-app-share-data-among-them-d97d670807a6

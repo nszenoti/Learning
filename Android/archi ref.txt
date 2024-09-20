@@ -10,3 +10,7 @@ https://medium.com/codequest/clean-android-multi-module-offline-first-scalable-a
 
 
 https://proandroiddev.com/how-to-architect-android-apps-a-deep-dive-into-principles-not-rules-2f1eb7f26402
+
+
+[Mobile-MicroService -Archi]
+https://www.petrosefthymiou.com/post/mobile-microservices-architecture

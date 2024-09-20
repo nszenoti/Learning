@@ -1,0 +1,23 @@
+roadmap | plan
+
+* Numpy Stack 
+
+- codemy.com
+- Keith Galli     // Pandas / Numpy      <-- ** IMP
+- Patrick Loeber  // Numpy Crash Course
+- Kimberly Fessel // matplotlib/seaborn
+
+
+* Practical ML
+
+- SentDex
+- Schafer
+
+
+* Small Projects 
+
+- NeuralNine
+
+* Theory + Tools
+
+- CampusX

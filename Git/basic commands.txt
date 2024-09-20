@@ -1,0 +1,72 @@
+basic commands
+
+1. Clone the Remote Repository
+
+git clone <repository-url>
+cd <repository-directory>
+
+2. Create a New Branch from Remote Branch
+
+git fetch origin
+git checkout -b <local-branch-name> origin/<remote-branch-name>
+
+
+3. Make Changes and Commit
+
+git add .
+git commit -m "Your commit message"
+
+
+4. Merge Changes from Remote Branch
+
+git fetch origin
+git merge origin/<remote-branch-name>
+
+
+5. Push Changes to Remote
+
+git push origin <local-branch-name>
+
+
+6. Update Your Local Branch with Remote Changes
+
+git fetch origin
+git rebase origin/<remote-branch-name>
+
+
+7. Delete a Remote Branch
+
+git push origin --delete <remote-branch-name>
+
+8. publish local (new repo) to remote 
+
+(create a new repo in github & get its <repository-url>)
+
+cd /path/to/your/project
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin <repository-url>
+git push -u origin master
+
+9.Verify Branch Tracking
+
+git branch -vv
+
+
+
+
+
+------- 
+
+other commands
+
+git status
+git log  || git log --oneline
+git diff
+git checkout bname | git switch bname
+git checkout -b bname   // create & switch
+
+See branch history (from creation)
+
+git log --walk-reflogs --oneline branchname

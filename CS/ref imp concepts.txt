@@ -1,0 +1,5 @@
+ref imp concepts
+
+MultiThreading vs Concurrency 
+
+https://chatgpt.com/share/66ed36e2-5738-8008-86db-2dfa83d9eced

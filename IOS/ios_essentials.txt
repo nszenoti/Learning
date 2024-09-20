@@ -10,3 +10,5 @@ https://andreea-andro.medium.com/xcode-project-vs-xcode-workspace-differences-86
 
 
 https://guides.cocoapods.org/using/pod-install-vs-update.html
+
+https://abhimuralidharan.medium.com/what-is-a-provisioning-profile-in-ios-77987a7c54c2#:~:text=A%20provisioning%20profile%20is%20downloaded,to%20run%20your%20application%20code.
