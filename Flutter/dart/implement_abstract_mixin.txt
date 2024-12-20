@@ -1,0 +1,20 @@
+implement_abstract_mixin
+
+https://chatgpt.com/c/66fa454d-e7cc-8008-b7a4-1d738cb90cad
+
+
+In Flutter (and Dart), when you implement an interface (using the implements keyword), you are required to implement all of its properties and methods in the derived class. However, if you want to have some shared behavior or properties that should be common across all descendants, you can use abstract classes or mixins instead of interfaces.
+
+Use Abstract Classes: When you have a base class with shared logic and properties, and you want derived classes to implement specific methods.
+
+Use Mixins: When you want to share common properties and methods across different classes without establishing a strict parent-child relationship.
+
+* Code Reusability & Implements !!
+----
+Correct, in Dart, when you use implements for creating a class, you cannot provide any default implementation. Every property and method defined in the interface must be explicitly implemented in the implementing class. This approach does not allow for code reusability in the same way that abstract classes and mixins do.
+
+* Strategy to achieve code reusbility 
+---
+1. Use Abstract Classes
+2. Combine Interfaces with Composition
+3. Use Mixins with Interfaces   <---*****

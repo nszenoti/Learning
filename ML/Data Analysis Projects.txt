@@ -1,0 +1,15 @@
+Data Analysis Projects 
+
+Full Data Science Project: Zomato Data Analysis | iScale
+https://youtu.be/XEMVDmyYkDU?si=-Yf2yzk5ShJadwmJ
+
+freecodecamp  // jovian ml Data Analysis with python course: zero to pandas
+
+Keith Galli
+Luke Barousse
+
+iScale  // Swati 
+  - Zomato Project
+  - Uber Project
+
+Rob Mulla

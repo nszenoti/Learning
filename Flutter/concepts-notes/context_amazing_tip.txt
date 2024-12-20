@@ -28,3 +28,8 @@ Builder(
     return Container(width: width / 2, color: Colors.blue);
   },
 );
+
+
+----
+
+Single Child vs  Multi Child Renderer

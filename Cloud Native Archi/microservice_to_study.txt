@@ -1,0 +1,14 @@
+microservice_to_study
+
+Start with Microservices Architecture:
+
+Focus on learning how to build independently deployable services and how services communicate using REST, gRPC, or message brokers (e.g., RabbitMQ, Kafka).
+Learn about API gateways, service discovery, and load balancing.
+Dive into basic scaling techniques and how to deploy microservices using containers and orchestration tools like Kubernetes.
+Layer in Distributed Systems Concepts:
+
+Gradually start introducing distributed systems topics as they relate to scaling microservices, such as:
+Fault tolerance and resilience patterns (e.g., circuit breakers, retry mechanisms, bulkheads).
+Distributed data management: How do microservices share or synchronize data across multiple nodes? Learn about distributed databases (e.g., Cassandra, MongoDB) and data partitioning.
+Consistency models: Understand how distributed systems handle data replication and the trade-offs between strong consistency and eventual consistency.
+Concurrency control: Handling operations across distributed systems in a way that maintains data integrity.

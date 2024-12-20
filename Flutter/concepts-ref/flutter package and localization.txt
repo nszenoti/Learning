@@ -1,0 +1,23 @@
+flutter package and localization
+
+
+
+https://stackoverflow.com/questions/63473530/how-to-add-localization-support-inside-flutter-packages
+
+https://github.com/flutter/flutter/issues/153087
+https://github.com/flutter/flutter/issues/107157
+
+
+flutter:
+  generate: true
+  l10n:
+    arb-dir: lib/l10n
+    template-arb-file: app_en.arb
+    output-localization-file: l10n.dart
+    output-class: AppLocalizations
+    synthetic-package: false   # If false, generated files will be placed in lib
+    output-dir: lib/generated  # Specify output dir when synthetic-package is false
+
+
+When to Use synthetic-package: false
+If you are developing a Flutter package or you want more control and visibility over the localization files, setting synthetic-package: false and using output-dir: lib/generated is useful. This makes sure that the generated files are part of your project's lib folder, which is important in package development since only the lib folder is exposed to the package consumers.

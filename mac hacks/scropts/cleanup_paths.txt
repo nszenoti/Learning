@@ -1,0 +1,10 @@
+cleanup_paths
+
+clean_path() {
+    export PATH=$(echo "$PATH" | awk -v RS=: -v ORS=: '!seen[$0]++' | sed 's/:$//')
+}
+clean_path
+
+
+
+This removes duplicate entries and ensures a clean PATH every time your shell starts.

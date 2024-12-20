@@ -1,0 +1,10 @@
+single number 2
+
+- The ones variable holds the bits that have appeared exactly once.
+- The twos variable holds the bits that have appeared exactly twice.
+- Whenever a bit appears three times, it gets cleared from both ones and twos.
+- This mechanism ensures that only the bits corresponding to the number that appears once remain in ones.
+
+* Mod 3 Logic: 
+----
+Since the problem states that every number except one appears exactly three times, we use mod 3 arithmetic. After a bit appears three times, it is reset.

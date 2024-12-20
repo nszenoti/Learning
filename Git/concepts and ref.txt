@@ -17,3 +17,7 @@ https://gist.github.com/yinzara/bbedc35798df0495a4fdd27857bca2c1
 
 [Github with SSH | checking existing ssh]
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys
+
+
+
+https://stackoverflow.com/questions/40148442/mainline-parent-number-when-cherry-picking-merge-commits

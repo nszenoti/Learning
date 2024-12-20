@@ -1,0 +1,55 @@
+amazing_facts
+
+* late final
+
+`late final` allows you to delay initialization until the constructor body (or any other method), but it still enforces that it can only be set once.
+
+This is useful when you have complex initialization logic that can't be easily handled in the initializer list, but you still want to ensure immutability after that initialization.
+
+void main() {
+  final p = Person('Sahid');
+  p.initName();
+  p.printName();
+}
+class Person{
+  late final String? name; 
+  
+  Person(String n){
+    
+  }
+  
+  void initName(){
+    name = null; 
+  }
+  
+  void printName(){
+    print(name);
+  }
+}
+
+
+-------
+
+* default vs generative constructors & Inheritance
+
+Default constructors: If the parent class has a default constructor (i.e., one without parameters), the child class does not need to explicitly call super(). The compiler automatically adds the call to the parent's default constructor.
+
+Generative constructors: If the parent class has a generative constructor (i.e., one with parameters or any custom constructor), then you do need to explicitly call the super constructor from the child class. This ensures that any required initialization in the parent class is properly handled.
+
+
+------
+
+Compile time constants vs final 
+
+
+In Dart, when you're working with const expressions, you're constrained to accessing compile-time constants. While the class itself can be declared as const, any instance members, including getters or non-constant fields, cannot be accessed within a const context.
+
+class CustomTheme {
+  const CustomTheme();
+  Color get color => Color(0xFFC8CEDB); // Getter
+}
+
+void main() {
+  const theme = CustomTheme();
+  const anotherColor = theme.color; // ERROR: Cannot access color in a constant expression
+}

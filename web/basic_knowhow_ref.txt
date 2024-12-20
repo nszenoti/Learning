@@ -4,3 +4,11 @@ https://levelup.gitconnected.com/script-tags-do-they-belong-in-the-body-or-the-h
 https://webplatformcourse.com/bonus/messaging/
 
 https://www.seancdavis.com/posts/dynamically-add-javascript-and-css-files-to-your-website-using-javascript/
+
+
+[Channel Messaging & Broadcast channels API]
+https://webplatformcourse.com/bonus/messaging/
+
+
+Data Urls
+https://developer.mozilla.org/en-US/docs/Web/URI/Schemes/data

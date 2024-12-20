@@ -5,6 +5,9 @@ https://medium.com/@alvaro.armijoss/flutter-state-management-provider-bloc-getx-
 
 https://aglowiditsolutions.com/blog/flutter-best-practices/
 
+https://medium.com/@topbrains/flutter-signals-d057d076a595
+https://cfdevelop.medium.com/reactive-programming-in-flutter-understanding-the-power-of-observables-and-computed-values-with-7a372db59e05
+
 1)
 
 [bloc archi]

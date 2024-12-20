@@ -1,0 +1,13 @@
+ref
+
+https://blog.stackademic.com/a-comprehensive-guide-to-creating-a-scalable-folder-structure-for-flutter-apps-b736cc49a691
+
+https://felipeemidio.medium.com/folder-structure-for-flutter-with-clean-architecture-how-i-do-bbe29225774f
+
+
+[Modular Archi]
+https://medium.com/flutter-community/a-modular-flutter-project-approach-c7ea8f9bfd70
+
+https://github.com/StuartApp/flutter-modular-architecture/tree/main/lib
+
+https://www.droidcon.com/2019/11/15/android-at-scale-square/

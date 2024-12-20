@@ -6,8 +6,12 @@ kantan coding  // good concepts
 
 Tech School
 
-Akhil Sharma
+Akhil Sharma  // Projects based 
 
 Anthony GG
 
 Go Guru  // Hindi
+
+Tiago  // Backend Dev using GO  <--***
+
+Golang Dojo  <--**

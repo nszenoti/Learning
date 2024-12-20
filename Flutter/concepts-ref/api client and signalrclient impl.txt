@@ -1,0 +1,4 @@
+api client and signalrclient impl
+
+
+https://chatgpt.com/share/670392ec-c0bc-8008-b182-3d37e709546d

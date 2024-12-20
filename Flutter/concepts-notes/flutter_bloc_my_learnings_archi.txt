@@ -1,0 +1,26 @@
+flutter_bloc_my_learnings_archi
+
+1. When a Bloc State can have multiple conflicitng attributes 
+   It's better to create a seperate class and let's state use composition principle
+
+   For example
+
+   State can have 
+
+   Fetch
+   Save
+   Delete
+
+   for this status can be overlapping for eg loading, progress, done, ...
+
+   Better to Create seperate class for each and let state be composed of those classes
+
+   Eg
+
+   State(
+   	FetchStatus,
+   	SaveStatus, 
+   	DeleteStatus, 
+   	Data,
+   	Error
+   )

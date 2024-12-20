@@ -1,0 +1,4 @@
+llm
+
+[RAG - Similar to Upgrad Specialization]
+https://medium.com/@rajriteshchandra/retrieval-augmentation-generative-search-ebc7768f6176

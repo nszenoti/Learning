@@ -1,0 +1,48 @@
+topics
+
+MicroService Archi 
+Distributed Systems
+Message Brokers     // RabboitMQ, kafka, Redis
+
+
+API design & versioning 
+ - restful 
+ - graphql 
+ - gRPC
+ - API versioning
+
+Service Discovery & Load Balancing
+
+Event Driven Architecture
+
+Database Design & Patterns
+
+Caching Strategies
+
+Security in MicroServices
+
+Observability : Monitorung, Logging, Tracing
+
+Containerization & Orchestration
+
+Fault tolerance & Resilience patterns
+
+
+Data Consistency & Transactions
+
+DevOps & CI/CD pipelines
+
+Cloud Native 
+
+
+-------
+
+Suggested Learning Path:
+Microservices
+Distributed Systems
+Message Brokers
+Database Design & Caching
+Event-Driven Architecture
+Security and Observability
+Containerization & Orchestration (Docker & Kubernetes)
+Scaling, Fault Tolerance, and Performance Optimization

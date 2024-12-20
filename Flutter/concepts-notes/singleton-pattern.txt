@@ -1,5 +1,7 @@
 singleton-pattern
 
+https://chatgpt.com/share/66ff7e18-6cf0-8008-a3d0-88c7d8568aaa
+
 https://thiele.dev/blog/the-power-of-late-keyword-in-dart/#:~:text=Global%20%26%20static%20variables%20are%20late,how%20often%20you%20call%20them.
 
 Singleton implementations can be categorized based on whether the initialization is dependent on external parameters or not.

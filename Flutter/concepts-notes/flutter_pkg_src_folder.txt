@@ -1,0 +1,26 @@
+flutter_pkg_src_folder
+
+The src folder in a Flutter project or package is typically used to encapsulate the internal code of your package or app. It’s particularly useful in Flutter packages rather than full apps. Here’s why and how it fits in:
+
+Purpose of the src Folder
+Encapsulation of Internal Code: In a Flutter package, you might have a lot of internal files that shouldn't be directly accessed by users of the package. By placing your code inside the src folder, you can control what is exposed to the outside world.
+Public API Exposure: Outside the src folder, you create a single file (e.g., lib/my_package.dart) that exports only the necessary parts of your code. This acts as the public API, exposing only the classes, functions, and widgets that you want users to interact with.
+
+
+lib/
+├── my_package.dart   # Public API: only exports what should be exposed
+└── src/
+    ├── button.dart   # Internal widget (not directly accessible)
+    ├── colors.dart   # Internal color file
+    ├── utils.dart    # Utility functions or classes
+    └── form.dart     # Form widget or logic
+
+
+    my_package.dart acts as the public-facing file where you control what the user can access. For example, you could do something like this:
+
+// my_package.dart
+export 'src/button.dart';
+export 'src/form.dart'; // Only exposes certain features
+
+
+=> The src folder is more common in Flutter packages rather than full apps.

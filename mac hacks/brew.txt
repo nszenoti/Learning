@@ -1,0 +1,4 @@
+brew
+
+What is brew link?
+brew link is a Homebrew command used to ensure the binaries (like python, python3) from a specific formula (e.g., python@3.12) are symlinked into Homebrew's bin directory (/opt/homebrew/bin). This makes them available for use in your terminal based on the PATH order.

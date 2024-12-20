@@ -20,3 +20,6 @@ https://medium.com/@hamber/flutter-dart-solid-principles-and-top-design-patterns
 
 [Animations]
 https://medium.com/flutter-community/flutter-animations-comprehensive-guide-cb93b246ca5d
+
+
+https://medium.com/@valiodas/dart-exploring-zones-prints-41c8a44e139a

@@ -36,6 +36,8 @@ https://dev.to/dyarleniber/hexagonal-architecture-and-clean-architecture-with-ex
 
 ------
 
+https://medium.com/@kanellopoulos.leo/a-simple-way-to-organize-your-code-in-flutter-e175e7004fb5
+
 https://blog.codemagic.io/flutter-tutorial-organising-your-flutter-app/
 
 https://www.kodeco.com/3595916-clean-architecture-tutorial-for-android-getting-started
@@ -92,6 +94,8 @@ https://medium.com/@carlos.vicens.alonso/building-a-flutter-app-that-fits-in-wit
 ------
 
 Youtube
+
+https://youtu.be/joOaNMFE9_M?si=qQHxk19BgJKLlRno  // lambda dev
 
 DartBucket
 

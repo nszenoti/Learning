@@ -19,3 +19,6 @@ Flutter New App Keep In Mind
    - assets class gen
    - colors class gen
   
+7) Use copyWith() and jsonSerializable() 
+   or
+   freezed

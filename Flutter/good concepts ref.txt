@@ -12,6 +12,7 @@ good concepts ref
 
 * Localizations
   ---
+  https://localizely.com/blog/flutter-localization-step-by-step/?tab=using-gen-l10n
   https://www.developerlibs.com/2019/03/flutter-localization-or-multi-language-example.html
 
 * Text Input Formatter

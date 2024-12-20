@@ -1,3 +1,50 @@
 yt channels
 
 shashank kalanithi
+
+DataTab  <--*** (Stats)
+
+ML - Conecepts -------
+
+Pedram Jahangiri     (ML concepts simply explained)
+
+Graham Neubig  (NLP)
+
+AssemblyAI  (DL, ML, General AI)
+
+Samuel Chan  (LangChain & LLM tutorials)
+
+Dev Sense  (Ml & System Design)
+
+Qdrant - Vector Database & Search Engine (RAG)
+
+AI Anytime  // RAG
+
+
+Siddhardhan  // (DL (Math) + GenAI)
+Codewithbrandon  // (Gen AI | LLM)
+DSwithBappy  // (GenAI)
+
+Don Woodlock   // (RAG)
+Daniel Bourke
+
+Pradip Nichite  // (Gen AI)
+Sunny Savita
+
+Sam Witteveen  // Deep Learning & GenAI  <****
+
+Future Mojo   // NLP  *** IMP
+
+Code with harry
+
+
+Numpy Stack ----
+
+Keith Galli   // Numpy Pandas
+Rob Mulla
+The iScale
+
+Onur's Data Science Academy // EDA Projects  ***
+Data Thinkers  
+Data Science Lovers  // Python Projects - Data Analytics
+

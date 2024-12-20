@@ -7,6 +7,13 @@ dl youtube ref
 
   (digital daru) https://youtube.com/playlist?list=PLPzjifo9TUNVDnm5WsERGGEeGwaysd7VL&si=WazaNOB2i6tJFlJV
 
+  Adam Dhalla
+
+* Maths for ML
+
+- weights & biases 
+  // https://youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg&si=XUS2a-cHK9i77HJo
+
 
 [DL-Crash Course]
 https://www.youtube.com/watch?v=r0Ogt-q956I
@@ -14,7 +21,13 @@ https://www.youtube.com/watch?v=r0Ogt-q956I
 [Neural Network & Deep Learning Maths]
 https://youtu.be/Ixl3nykKG9M?si=e3dNyUzFqxN9vfMo
 
-* Maths for ML
+RAG Production Trick - Semantic Cache
 
-- weights & biases 
-  // https://youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg&si=XUS2a-cHK9i77HJo
+Siddhardhan
+
+
+[Gen AI - LangChain Matser Class]
+https://youtu.be/yF9kGESAi3M?si=mhy1_OGYqSle_xUs
+
+[Euron]
+Build 19 GenAI Projects Fast with LangChain, LLamaIndex, HuggingFace

@@ -1,0 +1,6 @@
+patterns_archi_practice
+
+* When you have multiple implementations of same widget how to facilitate it 
+
+1. Factory pattern
+2. Builder Pattern

@@ -1,0 +1,13 @@
+genai-tools
+
+you.com  // chatgpt + gemini + claude in 1 place
+
+betterpic  // turn selfie into professional linkedin headshot
+
+taplio  // grow linkedin account with ai (ie post content helper
+
+otio  // research ai helper
+
+dectopus  // ai presentation maker
+
+headshot pro

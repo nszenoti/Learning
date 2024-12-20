@@ -27,3 +27,7 @@ https://medium.com/flutterworld/flutter-schedulerbinding-vs-widgetsbinding-149c7
 
 
 https://thiele.dev/
+
+https://medium.com/@azharbinanwar/coding-made-easy-using-handy-extensions-on-buildcontext-46283b3655be
+
+https://appvesto.medium.com/flutter-formatting-textfield-with-textinputformatter-c73ee2167514

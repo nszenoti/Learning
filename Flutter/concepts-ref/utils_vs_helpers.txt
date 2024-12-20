@@ -1,0 +1,9 @@
+utils_vs_helpers
+
+
+Helpers and Utils serve different roles:
+
+Utils focus on general-purpose, stateless operations.
+Helpers are more context-specific, often holding state or data to perform their functions.
+
+Constants are specific case of Utils
