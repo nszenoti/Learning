@@ -5,11 +5,6 @@ https://dev.to/andremare/homebrew---basics--cheatsheet-3a3n
 https://start.atlassian.com/
 https://www.youtube.com/watch?v=1Ak6h1wGPO4
 https://www.notion.so/Zenoti-b402b50a2354439fad26da0cb19ba108
-https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html
-https://zenoti.atlassian.net/wiki/spaces/PA/pages/3766124674/SmartBot+2.0+APIs+Documentation
-https://zenoti.atlassian.net.mcas.ms/jira/software/c/projects/SMPIO/issues/?filter=myopenissues
-https://bitbucket.org/zenotiengineeringteam/workspace/repositories
-https://app3.greenhouse.io/referrals/new
 https://www.flutterclutter.dev/
 https://betterprogramming.pub/why-is-flutter-fast-part-2-layered-architecture-c8954b03e994
 https://fonts.google.com/icons?icon.query=close
