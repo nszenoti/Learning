@@ -1,0 +1,10 @@
+error
+
+Vertical viewport was given unbounded width.
+Viewports expand in the cross axis to fill their container and constrain their children to match
+their extent in the cross axis. In this case, a vertical viewport was given an unlimited amount of
+horizontal space in which to expand.
+
+=> 
+
+This error occurs because ListView tries to expand to fill the available space in its cross axis (horizontal in this case), but it encounters infinite width due to the horizontal SingleChildScrollView. The ListView requires explicit constraints in its cross axis to avoid this issue.

@@ -1,0 +1,8 @@
+rnn_notes
+
+ref: https://www.youtube.com/watch?v=LHXXI4-IEns
+
+Because of Vanishing Gradient
+RNN cannot capture Long Range Dependencies amongst the TimeStamps
+
+- Not being able to Learn on Earlier TimeStamp causes Model to Short Term Memory

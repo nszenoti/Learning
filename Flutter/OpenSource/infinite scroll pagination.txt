@@ -1,0 +1,25 @@
+infinite scroll pagination
+
+Issue Found 
+
+Widget - > PagedListView.seperated() // with shrinkWrap = false
+|
+ FirstPageProgress Indicator 
+ - If it's a ListView (of any kind)
+    |
+    then the UI will break saying 
+    "RenderViewport does not support returning intrinsic dimensions.
+Calculating the intrinsic dimensions would require instantiating every child of the viewport, which defeats the point of viewports being lazy."
+
+     It's because SliverFillRemaining -> uses false for hasScrollBody & 
+                    |
+                    our first page indicator widget is passed to it as a child
+                    Hence our widget is scrollable (ie ListView)
+                    But
+                    Package assumes it to be non-scrollable
+
+Solution 
+|
+Let user decides if it's first-page progress indicator is scrollable or not via a boolean flag
+taken with PagedListView.seperated()
+

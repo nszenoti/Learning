@@ -1,1 +1,14 @@
 notes
+
+
+* Feature Branch & Changes/Sync 
+  ---
+
+  1. git checkout feature
+  2. git rebase main
+  3. git push --force-with-lease
+  
+  // If something went wrong
+
+  4. git rebase --abort
+  5. 

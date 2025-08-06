@@ -2,3 +2,9 @@ flutter_web
 
 
 https://github.com/dart-lang/sdk/issues/55515
+
+
+[Channel Messaging & Broadcast channels API]
+https://webplatformcourse.com/bonus/messaging/
+
+https://sellsbrothers.com/understanding-flutter-deep-links-on-the-web

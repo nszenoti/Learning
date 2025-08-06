@@ -38,11 +38,11 @@ Cloud Native
 -------
 
 Suggested Learning Path:
-Microservices
-Distributed Systems
-Message Brokers
-Database Design & Caching
-Event-Driven Architecture
-Security and Observability
-Containerization & Orchestration (Docker & Kubernetes)
-Scaling, Fault Tolerance, and Performance Optimization
+1.Microservices
+2. Distributed Systems
+3. Message Brokers
+4. Database Design & Caching
+5. Event-Driven Architecture
+6. Security and Observability
+7. Containerization & Orchestration (Docker & Kubernetes)
+8. Scaling, Fault Tolerance, and Performance Optimization

@@ -1,0 +1,45 @@
+listview and scroll and viewport
+
+
+Erro - 
+RenderViewport does not support returning intrinsic dimensions.
+Calculating the intrinsic dimensions would require instantiating every child of the viewport, which
+defeats the point of viewports being lazy.
+If you are merely trying to shrink-wrap the viewport in the main axis direction, consider a
+RenderShrinkWrappingViewport render object (ShrinkWrappingViewport widget), which achieves that
+effect without implementing the intrinsic dimension API.
+
+
+The following RenderObject was being processed when the exception was fired: RenderSliverFillRemaining#87b98 relayoutBoundary=up2 NEEDS-LAYOUT NEEDS-PAINT NEEDS-COMPOSITING-BITS-UPDATE:
+
+
+
+Adding a height to _buildLoadingFirstPage resolves the issue because RenderShrinkWrappingViewport does not support intrinsic dimensions, meaning it cannot determine its own size based on its children. By specifying a height, you provide a fixed dimension, allowing the viewport to render correctly without needing to calculate its size based on the contents.
+
+
+
+--------
+The error you're encountering is due to the ListView trying to calculate its intrinsic dimensions, which is not supported by RenderViewport. To resolve this, you can use a ShrinkWrappingViewport or a ShrinkWrappingScrollView to ensure that the ListView only takes up the necessary space.
+
+
+
+Soln 
+
+ To resolve this, you can use a ShrinkWrappingViewport or a ShrinkWrappingScrollView to ensure that the ListView only takes up the necessary space.
+
+
+Widget _buildLoadingFirstPage(BuildContext context) {
+  return ShrinkWrappingScrollView(
+    child: ListView.separated(
+      shrinkWrap: true,
+      physics: NeverScrollableScrollPhysics(), // Prevents the ListView from scrolling independently
+      itemCount: 6,
+      itemBuilder: (_, __) {
+        return const FaqTableRowLoading();
+      },
+      separatorBuilder: (_, __) => FaqTableConstants.rowSeperator,
+    ),
+  );
+}
+
+Using a ShrinkWrappingScrollView ensures that the ListView only takes up the necessary space and does not try to expand to its maximum height. This approach resolves the issue of intrinsic dimensions and ensures that the ListView behaves correctly within the parent scrollable widget.

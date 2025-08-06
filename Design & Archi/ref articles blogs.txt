@@ -3,7 +3,9 @@ ref articles blogs
 https://santoshk.dev/posts/
 
 https://refactoring.guru/design-patterns/composite
+https://sourcemaking.com/refactoring-course
 
+https://deviq.com/
 
 https://needlify.com/post/solid-principles-explained-with-examples-a84f0918
 
@@ -24,3 +26,5 @@ https://nanosoft.co.za/blog/post/clean-architecture-entity-model
 https://refactoring.guru/design-patterns/factory-method
 https://sourcemaking.com/design_patterns/abstract_factory
 https://python-patterns.guide/
+
+

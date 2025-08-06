@@ -1,0 +1,6 @@
+articles
+
+
+https://medium.com/java-and-beyond/modern-java-an-in-depth-guide-from-version-8-to-21-by-akiner-alkan-f89b50e13c72
+
+https://dev.java/learn/

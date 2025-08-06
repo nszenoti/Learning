@@ -23,3 +23,6 @@ https://medium.com/flutter-community/flutter-animations-comprehensive-guide-cb93
 
 
 https://medium.com/@valiodas/dart-exploring-zones-prints-41c8a44e139a
+
+[Dynamic Widget Size ]
+https://medium.com/tagmalogic/widgets-sizes-relative-to-screen-size-in-flutter-using-mediaquery-3f283afc64d6

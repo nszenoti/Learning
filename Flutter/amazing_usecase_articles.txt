@@ -22,3 +22,6 @@ https://geekyants.com/blog/enhancing-user-navigation-implementing-arrow-key-scro
 
 [how-to-overlay-a-widget-on-top-of-a-flutter-app]
 https://stackoverflow.com/questions/57069641/how-to-overlay-a-widget-on-top-of-a-flutter-app
+
+[bindings flutter]
+https://medium.com/@mbixjkee1392/flutter-under-the-hood-binding-2b0ea65e5314

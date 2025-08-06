@@ -1,0 +1,36 @@
+rnn
+
+StatQuest 
+https://youtu.be/AsNTP8Kwu80?si=ITm1fuhjQY93mdGk
+
+The AI Hacker
+https://youtu.be/LHXXI4-IEns?si=bPASq6GhPkEiD6LL
+
+IBM
+https://youtu.be/Gafjk7_w1i8?si=fQz44-RkFY6Q554Q
+
+LSTM - IBM
+https://youtu.be/b61DPVFX03I?si=7Xo-6PhFWekXbi10
+
+Misra Turp
+https://youtu.be/y9PLF2GsD-c?si=CTl_Q0I0RofJ1Csl
+
+IntutiveML
+https://youtu.be/y_ZMup58uY8?si=fQxsDZ9tk4ApNCTg
+
+AssemblyAI
+https://youtu.be/TLLqsEyt8NI?si=jdAaEVEUFT8ZUbFb
+
+RNN vs Transformer | MachineLearningTV
+https://youtu.be/EFkbT-1VGTQ?si=_IKIyogZ9GzUmNNx
+
+RNN 
+RitvikMath
+https://youtu.be/DFZ1UA7-fxY?si=JBqJR59QOcsIohKH
+
+
+-------
+
+Articles
+
+https://www.v7labs.com/blog/recurrent-neural-networks-guide

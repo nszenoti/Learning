@@ -5,6 +5,11 @@ https://github.com/nszenoti/Quick-Notes/blob/master/Flutter/flutter_version_upda
 ref:
 https://blog.logrocket.com/migrating-flutter-project-null-safety/
 
+https://www.youtube.com/watch?v=o0YWm9c-jGs
+
+[Robert]
+https://www.youtube.com/watch?v=cSC4o3cKo0Y
+
 -----
 Useful commands
 
@@ -21,9 +26,18 @@ Commands to run
    - dart pub upgrade --null-safety  // migrate packages (automatically)
      [NOTE: you can manually also migrate them]
 
+
 --- All dependencies are now being pointed to migrated (now its turn for your project migration)
 
-2) try run flutter pub get
+2) we need to set the SDK constraint to a pre-null-safety version.
+   
+   environment:
+  sdk: ">=2.11.0 <3.0.0"  # Set to pre-null-safety version
+
+
+2) 
+    dart pub get   // get all dependencies for migration tool
+try run flutter pub get
 
   
 3) Project Migration

@@ -21,6 +21,3 @@ https://codewithandrea.com/articles/whats-new-dart-3-introduction/
 https://www.sandromaglione.com/articles/records-and-patterns-dart-language
 
 https://medium.com/@danijel.tolj.dev/using-dart-sealed-classes-with-pattern-matching-to-write-declarative-uis-in-flutter-4124de21426d
-
-
-https://medium.com/@danijel.tolj.dev/using-dart-sealed-classes-with-pattern-matching-to-write-declarative-uis-in-flutter-4124de21426d

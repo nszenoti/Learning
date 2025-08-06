@@ -3,3 +3,24 @@ fvm_doubts
 * fvm global 
   ---
    https://chatgpt.com/share/66fe2a81-d10c-8008-bd51-22be60776a66
+
+   1. nano ~/.zshrc  # or ~/.bashrc if you use bash
+   2. export PATH="$HOME/.fvm/default/bin:$PATH"
+   3. source ~/.zshrc  # or ~/.bashrc
+
+
+   https://chatgpt.com/c/678e208e-a978-8008-b862-7c3a43a72cb1
+-----
+
+Instance 1: Standalone Flutter Has Priority
+If the standalone Flutter is installed (e.g., at ~/flutter/bin) and is before fvm in the PATH, the system will use the standalone Flutter version for all flutter commands.
+```bash
+export PATH="$HOME/flutter/bin:$HOME/.pub-cache/bin:$PATH"
+```
+```bash
+flutter --version
+# Output: Flutter 3.10.0 (Standalone Flutter)
+
+fvm flutter --version
+# Output: Flutter 3.13.0 (FVM global version, if set)
+```

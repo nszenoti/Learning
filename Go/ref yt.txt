@@ -2,7 +2,7 @@ ref yt
 
 Mario Carrion // go & grpc & system desugn
   
-kantan coding  // good concepts 
+kantan coding  // good concepts  <-((()))
 
 Tech School
 
@@ -15,3 +15,5 @@ Go Guru  // Hindi
 Tiago  // Backend Dev using GO  <--***
 
 Golang Dojo  <--**
+
+Srinioulsy <--*** Backend from first principles

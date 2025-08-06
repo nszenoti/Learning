@@ -1,0 +1,27 @@
+sliverfillremaining_and_listview_issue
+
+The problem with using SliverFillRemaining and ListView.separated stems from how both widgets handle layout and scrolling in Flutter:
+
+Key Reasons for the Conflict
+Intrinsic Dimensions Conflict:
+
+SliverFillRemaining expects its child to stretch and fill the remaining space within the viewport.
+When you set shrinkWrap: true on the ListView, it tries to calculate its intrinsic dimensions (total height based on all children). This conflicts with the behavior of SliverFillRemaining, which doesn’t expect its child to compute intrinsic dimensions—it expects the child to fill available space dynamically.
+Lazy Loading Behavior:
+
+ListView is designed to be scrollable and lazily load its children, but SliverFillRemaining assumes that its child will not scroll independently (unless hasScrollBody is true).
+Double Scrollable Containers:
+
+Both SliverFillRemaining and ListView may end up trying to manage the scrolling behavior, leading to layout issues or rendering errors.
+Viewport Compatibility:
+
+SliverFillRemaining is tightly coupled with CustomScrollView and expects its child to align with the sliver protocol. However, ListView.separated with shrinkWrap: true breaks this protocol by attempting to shrink-wrap its height.
+
+
+---
+
+The error specifically states:
+
+"RenderViewport does not support returning intrinsic dimensions. Calculating the intrinsic dimensions would require instantiating every child of the viewport, which defeats the point of viewports being lazy."
+
+This means that ListView.separated is asking Flutter to calculate the total height of all its children, but SliverFillRemaining cannot accommodate such behavior because it works with lazy-loading slivers.

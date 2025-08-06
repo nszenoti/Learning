@@ -1,0 +1,9 @@
+notes.txt
+
+Fonts 
+
+Bradely Hand 
+Noteworthy 
+Chalkboard
+
+Operator MonoR

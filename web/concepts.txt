@@ -1,0 +1,12 @@
+concepts.txt
+
+- user agents 
+- sockets
+- cookies 
+
+
+Learn
+
+Cookies vs Tokens  
+
+

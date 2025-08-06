@@ -1,0 +1,81 @@
+static class
+
+When to use Class with Static Fields
+
+1. Reusable Logic 
+
+2. Global Constants
+
+
+-------
+Static vs Singleton 
+
+In Short:
+Static Methods:
+
+Best for pure logic and utility functions.
+No dependencies, no shared state.
+Simpler, but harder to mock when external resources are involved.
+Singletons:
+
+Best when there's external dependencies or shared state that should be accessed globally.
+You can inject dependencies and mock them in tests.
+Easier to manage shared state across your app.
+
+----------
+
+
+
+DownSide --- 
+
+1. Difficulty in Mocking:
+---
+Mocking allows you to replace certain behaviors or values with mock objects, which is essential in certain testing scenarios. Static methods do not allow this kind of flexibility because they are fixed at compile time
+
+If your utility class interacts with external systems or dependencies, this is a problem because it forces the real method to be executed during tests, which might lead to unreliable or slow tests (e.g., network calls).
+
+2. Global State:
+---
+Static methods often deal with global state, which can lead to issues in test isolation. Tests might depend on or modify global variables (e.g., static fields) and affect other tests unintentionally
+
+3. Harder to Extend or Configure:
+---
+Static methods and fields are often less flexible when it comes to configuring or extending logic for testing purposes.
+
+For example, if you need to configure your utility class to behave differently in a test, you cannot inject dependencies as you would with instance methods (through constructor injection or using a mock).
+
+
+-----
+
+Static Methods are good for stateless, reusable logic (pure functions, constants, simple transformations).
+
+Challenges include the difficulty of mocking, testing async behavior, and managing global state.
+
+Alternatives like dependency injection, singleton patterns, or instance-based methods can improve flexibility and testability, especially if the utility logic interacts with external systems or requires configuration.
+
+
+--------
+
+When to Use Static Methods:
+Purely logical utility: If the method only performs some logic that doesn't depend on external resources or maintain state (e.g., simple calculations, string manipulations, etc.), static methods work fine.
+
+Example: Utility methods for date formatting, simple validation, etc.
+No dependencies to mock or inject.
+No need for instance or state: If there's no state or shared behavior that needs to be accessed or modified across instances, static methods are a good choice.
+
+Example: MathUtils.calculateArea(double radius) or StringUtils.capitalizeWords(String text).
+
+---------
+
+When to Use Singleton:
+
+External dependencies: If the class needs to interact with external dependencies (like an HTTP client, database, or network connection), a singleton is usually preferred. This allows you to inject dependencies and makes mocking or faking the dependencies in tests easier.
+
+Example: A class responsible for fetching data from an API, which requires an instance of an HTTP client.
+Better for testing: Since you can inject mocks and fakes easily, it improves the testability.
+
+Stateful behavior: If your class holds state that should be shared across different parts of your app, singletons are ideal. You can store and manage this shared state within a single instance, ensuring there's only one global instance of the class.
+
+Example: A user session manager or configuration settings manager, where you need to keep track of the session or settings state.
+
+Instance behavior: Even if the state is not complex, using a singleton allows you to access the state consistently throughout your app without creating multiple instances.

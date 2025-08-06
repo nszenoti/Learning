@@ -1,0 +1,8 @@
+widgets
+
+When you use Center() inside the Row() 
+It will expand the Row's cross axis direction as much as it can 
+
+But at same time if you use it inside ListView
+Then item wont expand even used Center() inside it because
+ListView will allow item to take space only as much as it needed

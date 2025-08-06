@@ -34,3 +34,5 @@ https://stackoverflow.com/questions/54069239/whats-the-best-practice-to-keep-all
 
 [buildcontext amazing]
 https://medium.com/@azharbinanwar/coding-made-easy-using-handy-extensions-on-buildcontext-46283b3655be
+
+https://medium.com/flutter-community/a-modular-flutter-project-approach-c7ea8f9bfd70

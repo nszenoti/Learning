@@ -1,0 +1,5 @@
+tools
+
+Ghostty
+Fish 
+Zed

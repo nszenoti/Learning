@@ -4,3 +4,6 @@ https://joachim8675309.medium.com/installing-node-js-with-nvm-4dc469c977d9
 
 
 https://reqbin.com/code/javascript
+
+
+https://eloquentjavascript.net/

@@ -1,5 +1,8 @@
 ref
 
+https://github.com/GunterMueller/Books-3/tree/master
 https://github.com/qqqil/ebooks
 
 https://github.com/G33kzD3n/Catalogue
+
+https://dev.to/favourmark05/writing-clean-code-best-practices-and-principles-3amh

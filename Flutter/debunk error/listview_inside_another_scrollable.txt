@@ -1,0 +1,14 @@
+listview_inside_another_scrollable
+
+Thank you for providing the additional context. Given the error and the context, it seems that the ListView inside _buildLoadingFirstPage is causing issues because it tries to expand to its maximum height. Using shrinkWrap: true helps, but it doesn't fully resolve the issue when the ListView is inside another scrollable widget.
+
+To resolve this, we can use a ShrinkWrappingViewport or a ShrinkWrappingScrollView to ensure that the ListView only takes up the necessary space. Let's update the _buildLoadingFirstPage widget to use a ShrinkWrappingScrollView.
+
+--------
+
+Yes, the error occurs because ListView with shrinkWrap: true inside a CustomScrollView can cause conflicts with the constraints, especially when SliverFillRemaining is used with hasScrollBody: false. The SliverFillRemaining widget is designed to fill the remaining space in the viewport, and setting hasScrollBody: false means it expects its child to fill the remaining space without scrolling independently.
+
+To resolve this, you should avoid using ListView with shrinkWrap: true inside SliverFillRemaining with hasScrollBody: false. Instead, you can use a different approach to ensure that the ListView only takes up the necessary space.
+
+Solution with SliverList and SliverChildBuilderDelegate
+Instead of using ListView with shrinkWrap: true, you can use SliverList with SliverChildBuilderDelegate to achieve the same effect without causing layout issues.

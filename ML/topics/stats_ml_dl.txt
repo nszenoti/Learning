@@ -1,0 +1,54 @@
+stats_ml_dl.txt
+
+
+[Maths for ML Intutive Ref]
+https://intuitivetutorial.com/2020/12/25/mathematics-for-machine-learning-resources/
+
+
+[DataTab]
+https://youtu.be/K9teElePNkk?si=eqm80WQjCemdP_YI
+
+[Derek Banas]
+Statistics for Data Science & Machine learning
+https://youtu.be/tcusIOfI_GM?si=Lx6IAU3KBHrtg8us
+
+
+[Emma Ding]
+https://youtu.be/gHCcvynl1YY?si=7mTDa_hpLhtQTAjM
+
+
+
+Bookks 
+---
+
+Statistical Learning with Sparsity: The Lasso and Generalizations
+
+The Elements of Statistical Learning
+
+Pattern Recognition and Machine Learning
+
+"Mathematics for Machine Learning" by Deisenroth, Faisal, and Ong
+
+"Practical Statistics for Data Scientists" by Peter Bruce and Andrew Bruce
+
+6. "All of Statistics" by Larry Wasserman  // rigorous
+
+
+
+Top Pick 
+
+1. Art of Statistics
+2. Practical Statistics For Data Scientists
+2. Think STats
+3. Naked Statistics
+4. The Elements of Statistical Learning" by Hastie, Tibshirani, and Friedman (Part 2)
+5. An introduction to Statistical Learning by Hastie, Tibshirani, and Friedman (Part 1)
+
+
+New Books 
+
+Probabilistic Machine Learning (Kevin P Murphy)  // New & Intutive
+
+
+"Deep Learning" by Goodfellow, Bengio, and Courville
+
