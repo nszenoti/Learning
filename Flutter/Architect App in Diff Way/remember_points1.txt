@@ -1,0 +1,11 @@
+# remember_points1
+
+## Core folder and App folder
+
+`core/` is for **global, dependency-free** utilities. Routes:
+- Are **app-specific orchestration** (tightly coupled to features)
+- Create **dependency on features** (which should never import from core)
+- Belong with app-level config (`app.dart`, DI setup)
+
+`app/` = "how the app is wired together"  
+`core/` = "foundational tools anything can use"

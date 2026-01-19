@@ -26,3 +26,10 @@ https://medium.com/@valiodas/dart-exploring-zones-prints-41c8a44e139a
 
 [Dynamic Widget Size ]
 https://medium.com/tagmalogic/widgets-sizes-relative-to-screen-size-in-flutter-using-mediaquery-3f283afc64d6
+
+
+[Folder Structure YT]
+https://www.youtube.com/playlist?list=PL5jb9EteFAOCFax4-wE9vsYHliEYZXn4i
+
+[Flutter Service Worker]
+https://chipsoffury.com/posts/why-we-removed-flutter-service-worker/

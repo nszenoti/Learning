@@ -13,6 +13,11 @@ Kunal Kuswaha
 Rahul Wagh   <-**** Series
 M Prashant
 
+Kubernetes AWS Jenkis Cafe
+
+in28minutes
+
+
 Tiny Technical Tutorials
 
 AWS Scaler Lec
@@ -27,3 +32,14 @@ M Prashant
 
 AWS Serverless Project Tutorial
 https://youtu.be/4dscVzCaXCU?si=ZtIpSWXIjgaB-I9h
+
+Cloud Computing (Intellipat)  || *** NEW and latest
+https://youtu.be/E-bNlmja0j8?si=V-toFHSAGYmjFhVo
+https://youtu.be/cJLJrLlZ8no?si=W8JKW-kkE_tOVNyO  // ** Old
+https://www.youtube.com/live/_vvwb05yMYg?si=FzPwqrFtBJg0DNwh
+
+Cloud Fundamentals By IBM Technology	
+https://youtube.com/playlist?list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ&si=_C1y5zfrjb4sG7gc
+
+AWS & Cloud Computing For Begineers | in28minutes
+https://youtu.be/O61gbmYZJmE?si=a2HDHAN_RW96jlR2

@@ -23,3 +23,29 @@ https://www.youtube.com/watch?v=23aQdrS58e0
 ---- Books -----
 
 Effective Python : 90 specidic ways to write
+
+
+
+---- Blogs / Webstires ----
+
+https://realpython.com/tutorials/intermediate/
+
+https://beejok.com/
+
+https://www.thenerdnook.io/p
+
+devopedia
+
+
+https://github.com/gto76/python-cheatsheet
+https://dabeaz-course.github.io/practical-python/Notes/Contents.html
+
+https://github.com/s-nikravesh/python-books/blob/master/Introductory%20Books/Python%20Tricks:%20The%20Book%20-%20Dan%20Bader.pdf
+
+
+https://docs.python-guide.org/intro/learning/?utm_source=chatgpt.com
+
+
+Competitive 
+
+https://github.com/shiwentao00/Python-leetcode

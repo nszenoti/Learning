@@ -54,6 +54,15 @@ git push -u origin master
 git branch -vv
 
 
+# This shows actual remote branches (no deletion)
+git ls-remote origin Repute
+
+# This will return nothing after deletion (local cleanup only)
+git branch -r | grep Repute
+
+# If you ever need to delete from the remote (you don't need to now):
+git push origin --delete Repute
+
 
 
 

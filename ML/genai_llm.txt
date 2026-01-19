@@ -2,9 +2,12 @@ genai_llm
 
 Yt
 
+Vizuara
+
 Siddhardhan
 CodewithBrandon
-DSwithBappy
+AIWithBrandon
+DSwithHappy
 AI Anytime
 Don Woodlock
 Pradip Nichite
@@ -19,7 +22,7 @@ code with harry
 LangChain MasterClass
 https://youtu.be/yF9kGESAi3M?si=DqJDU8xArTFVmdxr
 
-Generative AI mastery 
+Generative AI mastery | DSWithHappy
 https://youtu.be/IG-tM_4iKOg?si=HEsXVFQ-G1-Eid6R
 
 ***

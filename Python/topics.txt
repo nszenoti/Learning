@@ -1,0 +1,5 @@
+topics
+
+https://devopedia.org/introspection-in-python
+
+https://dev.to/bshadmehr/an-introduction-to-python-metaprogramming-3nan

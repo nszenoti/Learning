@@ -38,7 +38,7 @@ Cloud Native
 -------
 
 Suggested Learning Path:
-1.Microservices
+1. Microservices
 2. Distributed Systems
 3. Message Brokers
 4. Database Design & Caching

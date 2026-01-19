@@ -1,0 +1,18 @@
+My_Path_Learning
+
+1. Deep Learning  - Andrew NG (Agentic AI)
+2. Kaggle Google 5 days intensive course
+3. Hugging Face - LLM, Agents, Course 
+4. MCP for Begineers (Microsfot)
+
+
+LLM - 
+Karaptahy Video
+
+[Piyush Garg]
+https://youtu.be/K45s2PgywvI?si=eF1qF7aQX3B1DZwZ
+
+3b1b
+
+GenAI 
+https://youtu.be/2IK3DFHRFfw?si=ZwXaY2onE6nQKxhy

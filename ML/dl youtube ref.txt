@@ -25,9 +25,19 @@ RAG Production Trick - Semantic Cache
 
 Siddhardhan
 
+Shaw Talebi
+
+Lex Fredman
+
 
 [Gen AI - LangChain Matser Class]
 https://youtu.be/yF9kGESAi3M?si=mhy1_OGYqSle_xUs
 
 [Euron]
 Build 19 GenAI Projects Fast with LangChain, LLamaIndex, HuggingFace
+
+
+Stanford CME295 | Transformers
+https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy
+Stanford CME295 | LLM
+https://www.youtube.com/playlist?list=PLoROMvodv4rObv1FMizXqumgVVdzX4_05 

@@ -1,0 +1,6 @@
+books_ref
+
+https://github.com/harshitkgupta/StudyMaterial
+
+
+https://github.com/letthedataconfess/Data-Engineering-Books/blob/main/Book-2Designing-data-intensive-applications.pdf

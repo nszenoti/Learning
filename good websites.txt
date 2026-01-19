@@ -7,6 +7,7 @@ https://kinsta.com/blog/linux-commands/#:~:text=Linux%20Commands%20FAQ,-What%20I
 
 https://ryanstutorials.net/   // general computer science
 the odin project   // web full stack
+boot dev
 
 plague fox  // flutter
 flutter clutter  // flutter

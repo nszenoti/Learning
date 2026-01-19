@@ -1,0 +1,34 @@
+commands_v2
+
+
+date & author
+git log --pretty=format:"%h %ad | %s%d [%an]" --date=short
+
+
+
+1️⃣ Using git log <branch> ^<parent-branch>
+-> 
+git log F1 ^M1 --oneline
+If you want only the commits that are unique to F1 (not in M1), you can do this:
+
+
+2️⃣ Using git log with --first-parent (optional)
+linear history along the branch itself
+
+3️⃣ Visual graph (to see branch vs parent)
+- M1..F1 → shorthand for commits reachable from F1 but not from M1.
+- This is very visual if you want to quickly understand what F1 adds.
+
+
+💡 Rule of thumb:
+
+git log F1 → all commits in F1 including M1 history
+
+git log F1 ^M1 or git log M1..F1 → only commits unique to F1
+
+
+----
+
+Find parent from RefLog
+
+git reflog {branchName} | tail -1 

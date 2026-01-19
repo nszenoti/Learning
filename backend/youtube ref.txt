@@ -4,7 +4,28 @@ sudo code
 piyush garg
 arpit bhayani
 
+Caleb Curry
+
 Learn Code with Durgesh
+
+
+A Dev's Story   //** IMP
+
+Bootdev  // *** Gamified IMP
+
+
+------
+
+Siriniously -> Backend from First Principles | Go 
+https://youtu.be/0Rwb4Xmlcwc?si=uMB29mu-IgF6usxE
+
+SuperSimpleDev
+
+Hussein Nasser
+
+Tiago  (In GO)
+
+Caleb Curry
 
 
 
@@ -12,5 +33,12 @@ Learn Code with Durgesh
 
 ------
 
-Siriniously -> Backend from First Principles | Go 
-https://youtu.be/0Rwb4Xmlcwc?si=uMB29mu-IgF6usxE
+System Design Concepts Course and Interview Prep
+(freecodecamp)
+
+
+------
+
+
+Backend Eberything you need to know | Caleb Curey
+https://youtu.be/oVfw8Oj-uH8?si=tFrRD10Q6gBZgkBQ

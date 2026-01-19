@@ -1,0 +1,18 @@
+course_yt_ref
+
+https://www.deeplearning.ai/
+
+
+https://karpathy.ai/
+
+[Practical Deep Learning for Coders]
+https://course.fast.ai/
+
+https://web.stanford.edu/class/cs224n/
+
+[GenAI in nutshell]
+https://youtu.be/2IK3DFHRFfw?si=ZwXaY2onE6nQKxhy
+
+
+Stanford CME295
+https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy

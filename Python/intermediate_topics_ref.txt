@@ -1,0 +1,14 @@
+intermediate_topics_ref
+
+Magic Methods
+Tech With Tim: https://youtu.be/qqp6QN20CpE?si=au1dCuzZ4weUiiHq
+
+AsyncIO
+Corey Schafer
+
+
+
+Tips
+
+[Pythonic Code]
+https://youtu.be/bsU7AFjh4m8?si=pDHit-pBSdj6vRMN

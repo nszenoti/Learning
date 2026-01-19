@@ -6,3 +6,13 @@ Union find
 https://yuminlee2.medium.com/union-find-algorithm-ffa9cd7d2dba
 
 https://yuminlee2.medium.com/
+
+
+https://medium.com/@abhijeetv007/dsa-patterns-0e87764627e1
+
+https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/
+
+https://roadmap.sh/datastructures-and-algorithms
+
+
+https://dev.to/arslan_ah/20-essential-coding-patterns-to-ace-your-next-coding-interview-32a3

@@ -1,0 +1,57 @@
+ai_agents
+
+Ai Agents: Archi, UseCases & Future Applications
+https://youtu.be/VDhQFBxIgtI?si=XjwDaQ25gnWn5dLW
+
+AI Stack | Gen AI | Terms
+https://youtu.be/RRKwmeyIc24?si=4OJwGeVxHMIkO32Q
+
+Ai Agents Basics KodeKloud
+https://youtu.be/ZaPbP9DwBOE?si=mf3EOfRfa5XQd8mv
+
+AI Agents Simplified
+https://youtu.be/wazHMMaiDEA?si=RXJH1eutGVG8z8CJ
+
+
+Ai Agents Workshops
+https://youtu.be/LSk5KaEGVk4?si=-cJMCA04Pwdqc3KZ
+
+
+Covered
+
+IBM
+https://www.youtube.com/watch?v=F8NKVhkZZWI
+
+Stanford
+https://youtu.be/kJLiOGle3Lw?si=i7TLNyylcA9ILPDF
+
+Jeff su
+https://youtu.be/FwOTs4UxQS4?si=-ikOULTOpajNABmf
+
+Ai Agent Full RoadMap (Hindi) | Nafay 3D
+https://www.youtube.com/playlist?list=PLULbDkdbO4tqvwLLt0o956P9AnDGE9GSY
+
+Microsoft
+AI Agents For Begineers
+
+Tech With Tim
+https://youtu.be/xekw62yQu14?si=gHXZUSI-2Xil8EbK
+
+Vizuara *** IMP
+https://youtu.be/WNAkSAuhYhw?si=-WqR8vUc-LPxwI5P
+
+
+---
+Practical 
+
+Build Ai Agent | Dave Ebbelaar
+https://youtu.be/Q3Gb7Rjre3U?si=UoCqVwgKiELxrh9E
+
+
+----
+
+Langgraph (3 hrs crash course)
+https://youtu.be/jGg_1h0qzaM?si=SKbOaSDUUkqp7ZMX
+
+OLLAMA 
+https://youtu.be/GWB9ApTPTv4?si=7PBUADNf7QfXofeu

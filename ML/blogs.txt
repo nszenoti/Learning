@@ -1,0 +1,8 @@
+blogs
+
+
+https://www.mercity.ai/blog-post/guide-to-fine-tuning-llms-with-lora-and-qlora
+
+
+
+https://github.com/jasmcaus/ai-math-roadmap

@@ -1,0 +1,10 @@
+llms
+
+[LLM - Karapthy]
+https://youtu.be/zjkBMFhNj_g?si=h4l5IuxiUIX4ZDph
+
+- Vizuara
+- Stanford Class 
+
+Hugging Face 5
+- NLP Course 

@@ -1,5 +1,10 @@
 yt channels
 
+KodeCLoud  // For any concepts *****
+Vizuara   // *** IMP GenAi | NN
+
+Shaw Talebi    // PHD (Good Explaination) | ML in 34 mins
+
 shashank kalanithi
 
 DataTab  <--*** (Stats)
@@ -20,7 +25,6 @@ Qdrant - Vector Database & Search Engine (RAG)
 
 AI Anytime  // RAG
 
-
 Siddhardhan  // (DL (Math) + GenAI)
 Codewithbrandon  // (Gen AI | LLM)
 DSwithBappy  // (GenAI)
@@ -36,6 +40,8 @@ Sam Witteveen  // Deep Learning & GenAI  <****
 Future Mojo   // NLP  *** IMP
 
 Code with harry
+
+ByetMonk
 
 
 Numpy Stack ----
@@ -60,3 +66,52 @@ The AI Hacker    <----***IMP
 
 VCubingX
 
+Leo IsikDogan  <---*** IMP Crash Course DL
+Vizuara
+
+
+
+LLM | Agentic AI ----
+
+Data Heroes   // ** IMP (Time Series | Animated Content)
+Shaw Talebi
+Vizuara
+
+Under the Hood 
+
+------------------------
+
+[Visualizing LLM and attention]
+https://youtu.be/KJtZARuO3JY?si=gKCyJu34JZl2o9Wu
+
+[Epic History of LLM]
+https://youtu.be/KJtZARuO3JY?si=gKCyJu34JZl2o9Wu
+
+
+https://youtube.com/playlist?list=PLZ2ps__7DhBbaMNZoyW2Hizl8DG6ikkjo&si=aIr5oEvQA5M40mi3
+https://youtu.be/KJtZARuO3JY?si=gKCyJu34JZl2o9Wu
+
+
+NLP and LLM (Stanford)
+https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D
+
+MLOps (Andrew NG)
+https://www.youtube.com/results?search_query=andrew+ng+stanford
+
+NLP
+Vizuara - LLM From scratch
+
+DL Crash COurse
+Leo Isikdogan
+
+
+
+
+----------------------
+AI Research & News
+
+Yannic Kilcher
+Ai Grid
+AI Podcast Series. Bytes Goose AI
+No Hype AI
+Mathew Berman

@@ -8,7 +8,7 @@ Tech School
 
 Akhil Sharma  // Projects based 
 
-Anthony GG
+Anthony GG   // Project based good
 
 Go Guru  // Hindi
 
@@ -17,3 +17,19 @@ Tiago  // Backend Dev using GO  <--***
 Golang Dojo  <--**
 
 Srinioulsy <--*** Backend from first principles
+
+Huxn WebDev <--- ** GO in 1 shot
+
+
+Coders Gyan  // Project Rest API | Go lang tutorial
+
+Coding with Patrik
+
+Bek Brace <--***** IMP
+
+
+------ 
+Tiny Tech Turorials
+
+[Complete File Distributed System in GO]
+https://youtu.be/bymQakvTY40?si=_rZry3z-9z_DY_ph
