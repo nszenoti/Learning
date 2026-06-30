@@ -1,15 +1,33 @@
 ref mine explore1
 
+https://github.com/donnemartin/system-design-primer
+
+
 youtube
 
 - Geek's Lessons :- System Design Course for Beginners 
 
 - Mario Carrion
 
+- Byte Byte Go
+- Be A Better Dev    (System Design Concepts You need to knoq)
+- Engineering Digest
+- Sweet Codey 
+- Hayk Simonyan 
+- Piyush Garg 
+- Ashish Pratap Singh
 
 https://dev.to/karanpratapsingh/series/19332
 
 
 [DNS Servers]
 https://dnsmap.io/articles/what-are-top-level-domain-(tld)-name-servers	
+
+
+----
+
+[Backend | APi] 
+Caleb Cury
+
+---
 

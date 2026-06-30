@@ -1,4 +1,26 @@
-master_prompt
+master_prompt_gemini
+
+My Prompt: 
+I want to create notes for DSA Problem Solving Pattern based preparation
+giving reference to 2 platforms which does this
+
+So help me create a prompt I can provide to llm or cursor
+to generate roadmap + theory notes for all platform
+
+So what I am thinking is 
+we will prepare first roadmap then will get knowhow for each pattern one by one ie grokking pattern intutively with basic templates and python snippet and understanding it here and then will list related relevant leetcode problems as well 
+
+ie Emulating alike Core Patterns learning of Algo Monster but in our way 
+In Core Patterns it has 3 sections
+Basic Data Structure, Algorithms, and Simulations (ie Patterns, Techniques)
+
+So let prepare first roadmap first and then will tell what to do next
+
+So I want prompt for the same
+
+---
+
+https://gemini.google.com/app/7776a1994362314e?hl=en-IN
 
 To build a truly effective DSA study guide that emulates the best of **AlgoMonster** (structured flow) and **Grokking the Coding Interview** (intuitive patterns), you need a prompt that forces the AI to act as a Senior Engineer and Interview Coach.
 

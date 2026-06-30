@@ -1,10 +1,13 @@
 yt_channels
 
 
+2 minutes py
 Idently
 Carberra
 mCoding
 anthonywritescode
+
+Code with Josh
 
 Tech with Tim
 NeuralNine
@@ -13,7 +16,7 @@ Socratica
 
 Corey Schafer
 
-2 minutes py
+
 
 Patrick Loeber
 

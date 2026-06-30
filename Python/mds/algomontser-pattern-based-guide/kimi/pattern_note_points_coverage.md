@@ -1,0 +1,1 @@
+pattern_note_points_coverage

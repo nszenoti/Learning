@@ -12,3 +12,7 @@ https://youtu.be/AFcOyF_TWAg?si=nNhH8V_2uydKCXjN
 
 [Automapper]
 https://amrelsher07.medium.com/repository-pattern-with-automapper-in-net-core-213918e2e36b
+
+
+
+dometrain  

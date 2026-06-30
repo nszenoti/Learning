@@ -1,0 +1,7 @@
+ref_articles
+
+
+https://david.coffee/vibe-coding-part-1/
+
+
+https://medium.com/@dan.avila7/claude-code-learning-path-a-practical-guide-to-getting-started-fcc601550476

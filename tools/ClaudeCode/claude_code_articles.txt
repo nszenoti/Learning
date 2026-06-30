@@ -1,0 +1,25 @@
+claude_code_articles
+
+https://www.whytryai.com/p/claude-code-beginner-guide
+
+https://medium.com/@dan.avila7/claude-code-learning-path-a-practical-guide-to-getting-started-fcc601550476
+
+
+https://dinanjana.medium.com/mastering-the-vibe-claude-code-best-practices-that-actually-work-823371daf64c
+
+https://www.reddit.com/r/ClaudeAI/comments/1kivv0w/the_ultimate_vibe_coding_guide/
+
+https://supabase.com/blog/vibe-coding-best-practices-for-prompting
+
+
+https://rosmur.github.io/claudecode-best-practices/
+
+
+---- Vibe Coding
+
+https://nathanleclaire.com/blog/2025/03/10/vibing-best-practices-with-claude-code/
+
+https://github.com/moinsen-dev/claude_code_vibe_coding_guide
+
+
+https://natively.dev/

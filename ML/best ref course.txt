@@ -40,3 +40,10 @@ CarshCourse
 ------
 
 https://www.decodingai.com/p/realistic-guide-to-ai-agents-in-2026
+
+
+
+----- Interview Prep
+
+
+https://github.com/Avik-Jain/100-Days-Of-ML-Code

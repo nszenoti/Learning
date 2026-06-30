@@ -50,7 +50,14 @@ python-dsa-templates/
 │   ├── two_heaps_median.py
 │   ├── meet_in_the_middle.py
 │   ├── offline_queries.py
-│   └── mo_algorithm.py
+│   ├── mo_algorithm.py
+│   ├── prefix_sum_matrix.py
+│   ├── dsu_offline_queries.py
+│   ├── binary_search_on_answer.py
+│   ├── event_sweep.py
+│   ├── dp_divide_conquer.py
+│   ├── convex_hull_trick.py
+│   └── sparse_table.py
 │
 ├── patterns_advanced/
 │   ├── dijkstra.py

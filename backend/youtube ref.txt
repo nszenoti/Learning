@@ -28,6 +28,11 @@ Tiago  (In GO)
 Caleb Curry
 
 
+Hayk Simonyan
+
+Small town Coder
+
+
 
 
 
@@ -42,3 +47,11 @@ System Design Concepts Course and Interview Prep
 
 Backend Eberything you need to know | Caleb Curey
 https://youtu.be/oVfw8Oj-uH8?si=tFrRD10Q6gBZgkBQ
+
+
+------ 
+
+Projects
+
+
+1. Zomato Clone https://youtu.be/79F36yYEDyo?si=xfZgj4_bM6FlqC9n

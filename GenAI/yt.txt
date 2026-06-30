@@ -8,8 +8,11 @@ Rag (Lance Martin - FreeCodeCamp)
 
 AI Engineer
 
+AI Foundations
 
 AI Playlist
+
+AI Labs
 
 WorldOFAI
 
@@ -24,8 +27,17 @@ Nate Herk  // ** N8n
 
 
 --
-Tools
+Tools | Vibe Coding | Leverage AI
 
+Bootoshi
+Riley Brown
+
+
+Snapper AI
+Corbin
+
+Jack Robert  (Vibe Coding Ai APPs)
+Rob Shocks
 
 aiwithbrandon
 code a program
@@ -33,6 +45,23 @@ code a program
 Kevin Stratvert
 Productive Dude
 Rob the Ai Guy
+
+AI Foundations
+
+Peter Yang
+
+Alex finn
+
+Riley Brown
+Volo Builds
+Build Great Producrs
+
+Better Stack 
+
+Julian Goldie SEO  // Antigrav + OpenCode
+Zinho Automates
+
+SoftwareGent
 
 ---
 Research | Details
